@@ -3,7 +3,7 @@
 # Run sysctl kern.sched.topology_spec to check if CPU topology is sane.
 
 EVENT=ITLB_MISSES.WALK_DURATION
-KERN_VER=after_share_main
+KERN_VER=superpage
 TEST_NAME=clang
 PROFILES_DIR=/root/ITLB_MISSES.WALK_DURATION
 RAW_PMC_PROF=walk.pmc
@@ -25,10 +25,12 @@ while [ $ITER -lt $TOTAL_ITERS ]; do
 	wait $cpid2
 	kill $pmcpid
 	wait $pmcpid
+	cd /root
 	pmcstat -R /tmp/$RAW_PMC_PROF -g > /root/log.txt
 	gprof /boot/kernel/kernel $PROFILES_DIR/kernel.gmon > $PROFILES_DIR/kernel.report
 	mv /root/log.txt $RESULTS_DIR/$TEST_NAME.$EVENT.$KERN_VER.log$ITER.txt
 	mv $PROFILES_DIR/kernel.report $RESULTS_DIR/$TEST_NAME.$EVENT.$KERN_VER.report$ITER.txt
+	cd -
 
 	let ITER+=1
 done
