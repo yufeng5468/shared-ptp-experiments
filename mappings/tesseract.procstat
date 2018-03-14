@@ -1,0 +1,69 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+17047           0x400000           0x404000 r-x    4    4   1   0 CN-- vn /usr/local/bin/tesseract
+17047           0x603000           0x604000 rw-    1    1   1   0 ---- df
+17047        0x800603000        0x800622000 r-x   31   32  34   0 CN-- vn /libexec/ld-elf.so.1
+17047        0x800622000        0x80062a000 rw-    8    8   1   0 ---- df
+17047        0x80062b000        0x800675000 rw-   55   55   1   0 ---- df
+17047        0x800822000        0x800824000 rw-    2    2   1   0 ---- df
+17047        0x800a00000        0x800d10000 r-x  705  725   2   1 CNS- vn /usr/local/lib/libtesseract.so.3.0.2
+17047        0x800d10000        0x800f0f000 ---    0    0   1   0 ---- df
+17047        0x800f0f000        0x800f1c000 rw-   13    0   1   0 C--- vn /usr/local/lib/libtesseract.so.3.0.2
+17047        0x800f1c000        0x801020000 rw-  245  245   1   0 ---- df
+17047        0x801200000        0x801437000 r-x  567  592   2   1 CN-- vn /usr/local/lib/liblept.so.4.0.3
+17047        0x801437000        0x801637000 ---    0    0   1   0 ---- df
+17047        0x801637000        0x801640000 rw-    9    0   1   0 C--- vn /usr/local/lib/liblept.so.4.0.3
+17047        0x801800000        0x8018b7000 r-x  161  178   2   1 CN-- vn /usr/lib/libc++.so.1
+17047        0x8018b7000        0x801ab6000 ---    0    0   1   0 ---- df
+17047        0x801ab6000        0x801abd000 rw-    7    0   1   0 C--- vn /usr/lib/libc++.so.1
+17047        0x801abd000        0x801abf000 rw-    2    2   1   0 ---- df
+17047        0x801c00000        0x801c19000 r-x   25   27   2   1 CN-- vn /lib/libcxxrt.so.1
+17047        0x801c19000        0x801e18000 ---    0    0   1   0 ---- df
+17047        0x801e18000        0x801e1a000 rw-    2    0   1   0 C--- vn /lib/libcxxrt.so.1
+17047        0x801e1a000        0x801e1e000 rw-    0    0   0   0 ---- --
+17047        0x802000000        0x80202a000 r-x   42   48  12   4 CN-- vn /lib/libm.so.5
+17047        0x80202a000        0x80222a000 ---    0    0   1   0 ---- df
+17047        0x80222a000        0x80222b000 rw-    1    0   1   0 C--- vn /lib/libm.so.5
+17047        0x802400000        0x80240e000 r-x   14   14   2   1 CN-- vn /lib/libgcc_s.so.1
+17047        0x80240e000        0x80260d000 ---    0    0   1   0 ---- df
+17047        0x80260d000        0x80260e000 rw-    1    0   1   0 C--- vn /lib/libgcc_s.so.1
+17047        0x802800000        0x80298f000 r-x  369  396  61  27 CN-- vn /lib/libc.so.7
+17047        0x80298f000        0x802b8e000 ---    0    0   1   0 ---- df
+17047        0x802b8e000        0x802b9a000 rw-   12    0   1   0 C--- vn /lib/libc.so.7
+17047        0x802b9a000        0x802bb4000 rw-    6    6   1   0 ---- df
+17047        0x802c00000        0x802c17000 r-x   23   24  16   5 CN-- vn /lib/libz.so.6
+17047        0x802c17000        0x802e16000 ---    0    0   1   0 ---- df
+17047        0x802e16000        0x802e17000 rw-    1    0   1   0 C--- vn /lib/libz.so.6
+17047        0x803000000        0x803039000 r-x   49   50   2   1 CN-- vn /usr/local/lib/libpng16.so.16.21.0
+17047        0x803039000        0x803238000 ---    0    0   1   0 ---- df
+17047        0x803238000        0x803239000 rw-    1    0   1   0 C--- vn /usr/local/lib/libpng16.so.16.21.0
+17047        0x803400000        0x80345a000 r-x   58   60   2   1 CN-- vn /usr/local/lib/libjpeg.so.8.0.2
+17047        0x80345a000        0x80365a000 ---    0    0   1   0 ---- df
+17047        0x80365a000        0x80365b000 rw-    1    0   1   0 C--- vn /usr/local/lib/libjpeg.so.8.0.2
+17047        0x803800000        0x803809000 r-x    9   10   2   1 CN-- vn /usr/local/lib/libgif.so.7.0.0
+17047        0x803809000        0x803a08000 ---    0    0   1   0 ---- df
+17047        0x803a08000        0x803a09000 rw-    1    0   1   0 C--- vn /usr/local/lib/libgif.so.7.0.0
+17047        0x803c00000        0x803c70000 r-x  104  120   2   1 CN-- vn /usr/local/lib/libtiff.so.5.2.4
+17047        0x803c70000        0x803e6f000 ---    0    0   1   0 ---- df
+17047        0x803e6f000        0x803e73000 rw-    4    0   1   0 C--- vn /usr/local/lib/libtiff.so.5.2.4
+17047        0x804000000        0x804087000 r-x   63   72   2   1 CN-- vn /usr/local/lib/libwebp.so.6.0.0
+17047        0x804087000        0x804286000 ---    0    0   1   0 ---- df
+17047        0x804286000        0x804287000 rw-    1    0   1   0 C--- vn /usr/local/lib/libwebp.so.6.0.0
+17047        0x804287000        0x804289000 rw-    0    0   0   0 ---- --
+17047        0x804400000        0x80443d000 r-x   53   55   2   1 CN-- vn /usr/local/lib/libopenjp2.so.2.1.0
+17047        0x80443d000        0x80463c000 ---    0    0   1   0 ---- df
+17047        0x80463c000        0x80463e000 rw-    2    0   1   0 C--- vn /usr/local/lib/libopenjp2.so.2.1.0
+17047        0x804800000        0x804828000 r-x   32   34   8   2 CN-- vn /usr/lib/liblzma.so.5
+17047        0x804828000        0x804a28000 ---    0    0   1   0 ---- df
+17047        0x804a28000        0x804a29000 rw-    1    0   1   0 C--- vn /usr/lib/liblzma.so.5
+17047        0x804c00000        0x804c0a000 r-x   10   14   2   1 CN-- vn /usr/local/lib/libjbig.so.2
+17047        0x804c0a000        0x804e0a000 ---    0    0   1   0 ---- df
+17047        0x804e0a000        0x804e0d000 rw-    3    0   1   0 C--- vn /usr/local/lib/libjbig.so.2
+17047        0x805000000        0x80501b000 r-x   27   29  18   7 CN-- vn /lib/libthr.so.3
+17047        0x80501b000        0x80521a000 ---    0    0   1   0 ---- df
+17047        0x80521a000        0x80521c000 rw-    2    0   1   0 C--- vn /lib/libthr.so.3
+17047        0x80521c000        0x805227000 rw-   10 9775   2   0 ---- df
+17047        0x805400000        0x808000000 rw- 9765 9775   2   0 --S- df
+17047     0x7fffdfffe000     0x7fffdffff000 ---    0    0   0   0 ---- --
+17047     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+17047     0x7ffffffdf000     0x7ffffffff000 rw-    7    7   1   0 ---D df
+17047     0x7ffffffff000     0x800000000000 r-x    1    1  37   0 ---- ph
