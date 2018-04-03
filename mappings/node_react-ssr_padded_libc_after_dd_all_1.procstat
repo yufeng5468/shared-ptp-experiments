@@ -22,7 +22,7 @@
   903        0x803200000        0x803266000 r-x   57   75   4   2 CN-- vn /usr/lib/libssl.so.8
   903        0x803266000        0x803465000 ---    0    0   1   0 ---- df
   903        0x803465000        0x803470000 rw-   11    0   1   0 C--- vn /usr/lib/libssl.so.8
-  903        0x803600000        0x8038a3000 r-x  675  704   4   2 CN-- vn /usr/local/lib/libicui18n.so.59.1
+  903        0x803600000        0x8038a3000 r-x  675  704   4   2 CNS- vn /usr/local/lib/libicui18n.so.59.1
   903        0x8038a3000        0x803aa3000 ---    0    0   1   0 ---- df
   903        0x803aa3000        0x803ab2000 rw-   15    0   1   0 C--- vn /usr/local/lib/libicui18n.so.59.1
   903        0x803c00000        0x803dae000 r-x  329  355   4   2 CN-- vn /usr/local/lib/libicuuc.so.59.1
