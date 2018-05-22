@@ -1,0 +1,47 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+  891           0x400000           0x999000 r-x 1232 1252   6   1 CN-- vn /usr/local/bin/postgres
+  891           0xb99000           0xba4000 rw-   11    0   1   0 C--- vn /usr/local/bin/postgres
+  891           0xba4000           0xbf0000 rw-   15    0   1   0 CN-- df 
+  891        0x800b99000        0x800bb8000 r-x   31   32  28   0 CN-- vn /libexec/ld-elf.so.1
+  891        0x800bb8000        0x800bc1000 rw-    9    9   5   0 CN-- df 
+  891        0x800bc1000        0x800c11000 rw-   72    0   1   0 C--- df 
+  891        0x800c11000        0x800c12000 rw-    1    1   5   0 ---- ph 
+  891        0x800c12000        0x800c13000 rw-    1    1   5   0 ---- ph 
+  891        0x800db8000        0x800dba000 rw-    2    2   5   0 CN-- df 
+  891        0x800dba000        0x800dd5000 r-x   27   28  12   4 CN-- vn /lib/libthr.so.3
+  891        0x800dd5000        0x800fd4000 ---    0    0   5   0 CN-- df 
+  891        0x800fd4000        0x800fd6000 rw-    2    0   1   0 CN-- vn /lib/libthr.so.3
+  891        0x800fd6000        0x800fe1000 rw-   11    0   1   0 C--- df 
+  891        0x800fe1000        0x800feb000 r-x   10   10  10   3 CN-- vn /usr/local/lib/libintl.so.8.1.5
+  891        0x800feb000        0x8011ea000 ---    0    0   5   0 CN-- df 
+  891        0x8011ea000        0x8011eb000 rw-    1    0   5   0 CN-- vn /usr/local/lib/libintl.so.8.1.5
+  891        0x8011eb000        0x801375000 r-x   80   99   6   1 CN-- vn /usr/local/lib/libxml2.so.2.9.4
+  891        0x801375000        0x801575000 ---    0    0   5   0 CN-- df 
+  891        0x801575000        0x801580000 rw-   11    0   5   0 CN-- vn /usr/local/lib/libxml2.so.2.9.4
+  891        0x801580000        0x801581000 rw-    1    1   5   0 CN-- df 
+  891        0x801581000        0x8015e7000 r-x   57   75   6   1 CN-- vn /usr/lib/libssl.so.8
+  891        0x8015e7000        0x8017e6000 ---    0    0   5   0 CN-- df 
+  891        0x8017e6000        0x8017f1000 rw-   11    0   5   0 CN-- vn /usr/lib/libssl.so.8
+  891        0x801800000        0x801a40000 r-x  480  529  11   3 CN-- vn /lib/libcrypto.so.8
+  891        0x801a40000        0x801c40000 ---    0    0   5   0 CN-- df 
+  891        0x801c40000        0x801c69000 rw-   41    0   5   4 CN-- vn /lib/libcrypto.so.8
+  891        0x801c69000        0x801c6c000 rw-    2    2   5   4 CN-- df 
+  891        0x801c6c000        0x801c96000 r-x   42   43  10   3 CN-- vn /lib/libm.so.5
+  891        0x801c96000        0x801e96000 ---    0    0   5   0 CN-- df 
+  891        0x801e96000        0x801e97000 rw-    1    0   5   0 CN-- vn /lib/libm.so.5
+  891        0x801e97000        0x802026000 r-x  369  388  50  22 CN-- vn /lib/libc.so.7
+  891        0x802026000        0x802225000 ---    0    0   5   0 CN-- df 
+  891        0x802225000        0x802231000 rw-   12    0   1   0 CN-- vn /lib/libc.so.7
+  891        0x802231000        0x80224b000 rw-   10    0   1   0 C--- df 
+  891        0x80224b000        0x802262000 r-x   23   23  11   3 CN-- vn /lib/libz.so.6
+  891        0x802262000        0x802461000 ---    0    0   5   0 CN-- df 
+  891        0x802461000        0x802462000 rw-    1    0   5   0 CN-- vn /lib/libz.so.6
+  891        0x802462000        0x80248a000 r-x   32   33   6   1 CN-- vn /usr/lib/liblzma.so.5
+  891        0x80248a000        0x80268a000 ---    0    0   5   0 CN-- df 
+  891        0x80268a000        0x80268b000 rw-    1    0   5   0 CN-- vn /usr/lib/liblzma.so.5
+  891        0x802800000        0x802c00000 rw-  140    0   1   0 C--- df 
+  891        0x802c00000        0xc1da90000 rw- 267895 267895   4   0 --S- df 
+  891     0x7fffdfffe000     0x7fffdffff000 ---    0    0   0   0 ---- -- 
+  891     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- -- 
+  891     0x7ffffffdf000     0x7ffffffff000 rw-    8    0   1   0 C--D df 
+  891     0x7ffffffff000     0x800000000000 r-x    1    1  31   0 ---- ph 
