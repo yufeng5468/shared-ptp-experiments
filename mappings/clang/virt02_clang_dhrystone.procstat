@@ -1,0 +1,9 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+  890           0x400000          0x377a000 r-x 8896 8910   4   2 CN-- vn /usr/bin/clang
+  890          0x397a000          0x397f000 rw-    5    0   1   0 C--- vn /usr/bin/clang
+  890          0x397f000          0x3a52000 rw-   95   95   1   0 ---- df 
+  890        0x803a00000        0x803e00000 rw-  122  122   1   0 ---- df 
+  890     0x7fffdfffe000     0x7fffdffff000 ---    0    0   0   0 ---- -- 
+  890     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- -- 
+  890     0x7ffffffdf000     0x7ffffffff000 rw-    5    5   1   0 ---D df 
+  890     0x7ffffffff000     0x800000000000 r-x    1    1  25   0 ---- ph 
