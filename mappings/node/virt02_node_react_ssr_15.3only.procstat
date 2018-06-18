@@ -1,0 +1,176 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+  923           0x400000          0x1bf6000 r-x 3505 3524   4   2 CNS- vn /usr/local/bin/node
+  923          0x1df5000          0x1e00000 rw-   11    0   1   0 CN-- vn /usr/local/bin/node
+  923          0x1e00000          0x1e10000 rw-   15   15   1   0 C--- df 
+  923        0x801df5000        0x801e16000 r-x   32   33  22   0 CN-- vn /libexec/ld-elf.so.1
+  923        0x801e16000        0x801e1f000 rw-    9    9   1   0 CN-- df 
+  923        0x801e1f000        0x801ef8000 rw-  197  197   1   0 C--- df 
+  923        0x802016000        0x802018000 rw-    2    2   1   0 CN-- df 
+  923        0x802200000        0x802218000 r-x   24   25   9   4 CN-- vn /lib/libz.so.6
+  923        0x802218000        0x802418000 ---    0    0   0   0 CN-- -- 
+  923        0x802418000        0x802419000 rw-    1    0   1   0 CN-- vn /lib/libz.so.6
+  923        0x802600000        0x802624000 r-x   33   34   4   2 CN-- vn /usr/local/lib/libuv.so.1.0.0
+  923        0x802624000        0x802823000 ---    0    0   0   0 CN-- -- 
+  923        0x802823000        0x802825000 rw-    2    0   1   0 C--- vn /usr/local/lib/libuv.so.1.0.0
+  923        0x802a00000        0x802a17000 r-x   23   23   4   2 CN-- vn /usr/local/lib/libcares.so.2.2.0
+  923        0x802a17000        0x802c16000 ---    0    0   0   0 CN-- -- 
+  923        0x802c16000        0x802c17000 rw-    1    0   1   0 CN-- vn /usr/local/lib/libcares.so.2.2.0
+  923        0x802e00000        0x803043000 r-x  513  562   9   4 CN-- vn /lib/libcrypto.so.8
+  923        0x803043000        0x803242000 ---    0    0   0   0 CN-- -- 
+  923        0x803242000        0x80326c000 rw-   42    0   1   0 CN-- vn /lib/libcrypto.so.8
+  923        0x80326c000        0x80326e000 rw-    2    2   1   0 CN-- df 
+  923        0x803400000        0x803468000 r-x  104  122   4   2 CN-- vn /usr/lib/libssl.so.8
+  923        0x803468000        0x803667000 ---    0    0   0   0 CN-- -- 
+  923        0x803667000        0x803672000 rw-   11    0   1   0 CN-- vn /usr/lib/libssl.so.8
+  923        0x803800000        0x803ad1000 r-x  273  296   4   2 CN-- vn /usr/local/lib/libicui18n.so.60.2
+  923        0x803ad1000        0x803cd0000 ---    0    0   0   0 CN-- -- 
+  923        0x803cd0000        0x803ce0000 rw-   16    0   1   0 CN-- vn /usr/local/lib/libicui18n.so.60.2
+  923        0x803e00000        0x803fbc000 r-x  320  347   4   2 CN-- vn /usr/local/lib/libicuuc.so.60.2
+  923        0x803fbc000        0x8041bc000 ---    0    0   0   0 CN-- -- 
+  923        0x8041bc000        0x8041cf000 rw-   19    0   1   0 CN-- vn /usr/local/lib/libicuuc.so.60.2
+  923        0x804200000        0x804201000 r--    1    1   4   0 CN-- vn /usr/local/lib/libicudata.so.60.2
+  923        0x804201000        0x804400000 ---    0    0   0   0 CN-- -- 
+  923        0x804400000        0x804401000 rw-    1    1   4   0 CN-- vn /usr/local/lib/libicudata.so.60.2
+  923        0x804600000        0x804617000 r-x   23   24   6   3 CN-- vn /lib/libelf.so.2
+  923        0x804617000        0x804817000 ---    0    0   0   0 CN-- -- 
+  923        0x804817000        0x804818000 rw-    1    0   1   0 CN-- vn /lib/libelf.so.2
+  923        0x804a00000        0x804a11000 r-x   16   17  36  18 CN-- vn /lib/libutil.so.9
+  923        0x804a11000        0x804c11000 ---    0    0   0   0 CN-- -- 
+  923        0x804c11000        0x804c12000 rw-    1    0   1   0 CN-- vn /lib/libutil.so.9
+  923        0x804c12000        0x804c14000 rw-    0    0   0   0 ---- -- 
+  923        0x804e00000        0x804e0e000 r-x   14   14   6   3 CN-- vn /lib/libkvm.so.7
+  923        0x804e0e000        0x80500d000 ---    0    0   0   0 CN-- -- 
+  923        0x80500d000        0x80500e000 rw-    1    0   1   0 CN-- vn /lib/libkvm.so.7
+  923        0x805200000        0x805203000 r-x    3    3   4   2 CN-- vn /usr/lib/libexecinfo.so.1
+  923        0x805203000        0x805402000 ---    0    0   0   0 CN-- -- 
+  923        0x805402000        0x805403000 rw-    1    0   1   0 CN-- vn /usr/lib/libexecinfo.so.1
+  923        0x805600000        0x8056c4000 r-x  161  174   4   2 CN-- vn /usr/lib/libc++.so.1
+  923        0x8056c4000        0x8058c3000 ---    0    0   0   0 CN-- -- 
+  923        0x8058c3000        0x8058c9000 rw-    6    0   1   0 CN-- vn /usr/lib/libc++.so.1
+  923        0x8058c9000        0x8058cc000 rw-    3    3   1   0 CN-- df 
+  923        0x805a00000        0x805a19000 r-x   25   26   4   2 CN-- vn /lib/libcxxrt.so.1
+  923        0x805a19000        0x805c18000 ---    0    0   0   0 CN-- -- 
+  923        0x805c18000        0x805c1a000 rw-    2    0   1   0 CN-- vn /lib/libcxxrt.so.1
+  923        0x805c1a000        0x805c1e000 rw-    0    0   0   0 ---- -- 
+  923        0x805e00000        0x805e2d000 r-x   45   45   6   3 CN-- vn /lib/libm.so.5
+  923        0x805e2d000        0x80602c000 ---    0    0   0   0 CN-- -- 
+  923        0x80602c000        0x80602d000 rw-    1    0   1   0 CN-- vn /lib/libm.so.5
+  923        0x806200000        0x80621b000 r-x   27   28  10   5 CN-- vn /lib/libthr.so.3
+  923        0x80621b000        0x80641b000 ---    0    0   0   0 CN-- -- 
+  923        0x80641b000        0x80641c000 rw-    1    0   1   0 CN-- vn /lib/libthr.so.3
+  923        0x80641c000        0x806428000 rw-   12   12   1   0 C--- df 
+  923        0x806600000        0x806794000 r-x  369  389  43  21 CN-- vn /lib/libc.so.7
+  923        0x806794000        0x806993000 ---    0    0   0   0 CN-- -- 
+  923        0x806993000        0x8069a0000 rw-   13    0   1   0 CN-- vn /lib/libc.so.7
+  923        0x8069a0000        0x8069b9000 rw-    9    9   1   0 C--- df 
+  923        0x806a00000        0x806a05000 r-x    5    6   4   2 CN-- vn /usr/lib/librt.so.1
+  923        0x806a05000        0x806c05000 ---    0    0   0   0 CN-- -- 
+  923        0x806c05000        0x806c06000 rw-    1    0   1   0 CN-- vn /usr/lib/librt.so.1
+  923        0x806e00000        0x806e0e000 r-x   14   15   4   2 CN-- vn /lib/libgcc_s.so.1
+  923        0x806e0e000        0x80700e000 ---    0    0   0   0 CN-- -- 
+  923        0x80700e000        0x80700f000 rw-    1    0   1   0 CN-- vn /lib/libgcc_s.so.1
+  923        0x807200000        0x807600000 rw-  463  463   1   0 C--- df 
+  923        0x807600000        0x808fa8000 r--  120  128   2   0 ---- vn /usr/local/share/icu/60.2/icudt60l.dat
+  923        0x809000000        0x809a00000 rw-  537  537   1   0 C--- df 
+  923       0x28e7b00000       0x28e7b55000 rw-   85   85   1   0 CN-- df 
+  923       0x7185180000       0x7185200000 rw-  128  128   1   0 CN-- df 
+  923      0x237d5c00000      0x237d5c80000 rw-  128  128   1   0 C--- df 
+  923      0x363ed580000      0x363ed600000 rw-  128  128   1   0 CN-- df 
+  923      0x57a77100000      0x57a77105000 rw-    5    5   1   0 CN-- df 
+  923      0x5cbf6300000      0x5cbf6380000 rw-    3    3   1   0 CN-- df 
+  923      0x7b135300000      0x7b135380000 rw-   81   81   1   0 C--- df 
+  923      0x8ffceb80000      0x8ffcec00000 rw-  128  128   1   0 C--- df 
+  923      0xa91e0e80000      0xa91e0f00000 rw-  128  128   1   0 CN-- df 
+  923      0xb9953280000      0xb9953300000 rw-  128  128   1   0 CN-- df 
+  923      0xbdfc1980000      0xbdfc1a00000 rw-    3    3   1   0 CN-- df 
+  923      0xef32466b000      0xef32466c000 ---    0    0   1   0 CN-- df 
+  923      0xef32466c000      0xef324674000 rw-    8    8   1   0 C--- df 
+  923      0xef324674000      0xef324677000 ---    0    0   1   0 CN-- df 
+  923      0xfcb8d880000      0xfcb8d900000 rw-  127  127   1   0 CN-- df 
+  923     0x11f2d4f80000     0x11f2d5000000 rw-  128  128   1   0 CN-- df 
+  923     0x1504f3c00000     0x1504f3c80000 rw-    3    3   1   0 CN-- df 
+  923     0x157f59780000     0x157f59800000 rw-  128  128   1   0 C--- df 
+  923     0x1e9fcd200000     0x1e9fcd280000 rw-  128  128   1   0 C--- df 
+  923     0x1f5b23f80000     0x1f5b24000000 rw-  128  128   1   0 C--- df 
+  923     0x209d0af80000     0x209d0b000000 rw-  128  128   1   0 CN-- df 
+  923     0x25ce64880000     0x25ce64900000 rw-  128  128   1   0 CN-- df 
+  923     0x26394a500000     0x26394a580000 rw-  128  128   1   0 CN-- df 
+  923     0x281f16080000     0x281f16100000 rw-  128  128   1   0 C--- df 
+  923     0x28728e280000     0x28728e300000 rw-  128  128   1   0 CN-- df 
+  923     0x2898be500000     0x2898be580000 rw-  127  127   1   0 CN-- df 
+  923     0x2c29a8180000     0x2c29a8200000 rw-  128  128   1   0 CN-- df 
+  923     0x2cd677935000     0x2cd677980000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677980000     0x2cd677983000 rw-    3    3   1   0 CN-- df 
+  923     0x2cd677983000     0x2cd677984000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677984000     0x2cd6779ad000 rwx   41   41   1   0 CN-- df 
+  923     0x2cd6779ad000     0x2cd677a00000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677a00000     0x2cd677a03000 rw-    3    3   1   0 CN-- df 
+  923     0x2cd677a03000     0x2cd677a04000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677a04000     0x2cd677a2d000 rwx   41   41   1   0 CN-- df 
+  923     0x2cd677a2d000     0x2cd677a80000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677a80000     0x2cd677a83000 rw-    3    3   1   0 CN-- df 
+  923     0x2cd677a83000     0x2cd677a84000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677a84000     0x2cd677aad000 rwx   41   41   1   0 CN-- df 
+  923     0x2cd677aad000     0x2cd677b00000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677b00000     0x2cd677b03000 rw-    3    3   1   0 CN-- df 
+  923     0x2cd677b03000     0x2cd677b04000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677b04000     0x2cd677b7f000 rwx  123  123   1   0 C--- df 
+  923     0x2cd677b7f000     0x2cd677b80000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677b80000     0x2cd677b83000 rw-    3    3   1   0 CN-- df 
+  923     0x2cd677b83000     0x2cd677b84000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677b84000     0x2cd677bff000 rwx  123  123   1   0 CN-- df 
+  923     0x2cd677bff000     0x2cd677c00000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677c00000     0x2cd677c03000 rw-    3    3   1   0 CN-- df 
+  923     0x2cd677c03000     0x2cd677c04000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677c04000     0x2cd677c7f000 rwx   48   48   1   0 CN-- df 
+  923     0x2cd677c7f000     0x2cd677c80000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677c80000     0x2cd677c83000 rw-    3    3   1   0 CN-- df 
+  923     0x2cd677c83000     0x2cd677c84000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677c84000     0x2cd677cff000 rwx  123  123   1   0 CN-- df 
+  923     0x2cd677cff000     0x2cd677d00000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677d00000     0x2cd677d03000 rw-    3    3   1   0 CN-- df 
+  923     0x2cd677d03000     0x2cd677d04000 ---    0    0   1   0 CN-- df 
+  923     0x2cd677d04000     0x2cd677d7f000 rwx    9    9   1   0 CN-- df 
+  923     0x2cd677d7f000     0x2cd697935000 ---    0    0   1   0 CN-- df 
+  923     0x2ce9f1480000     0x2ce9f1500000 rw-  127  127   1   0 CN-- df 
+  923     0x2cf55e900000     0x2cf55e980000 rw-  128  128   1   0 C--- df 
+  923     0x2fb739680000     0x2fb739700000 rw-  128  128   1   0 C--- df 
+  923     0x2fff00d00000     0x2fff00d80000 rw-  128  128   1   0 C--- df 
+  923     0x31a8b5a00000     0x31a8b5a80000 rw-   48   48   1   0 C--- df 
+  923     0x31e23a380000     0x31e23a400000 rw-  128  128   1   0 CN-- df 
+  923     0x341fa5e00000     0x341fa5e80000 rw-    3    3   1   0 CN-- df 
+  923     0x34fab6e00000     0x34fab6e80000 rw-  128  128   1   0 C--- df 
+  923     0x3c374ab00000     0x3c374ab80000 rw-  128  128   1   0 C--- df 
+  923     0x3d1966980000     0x3d1966a00000 rw-  128  128   1   0 CN-- df 
+  923     0x3d9e2e780000     0x3d9e2e800000 rw-  128  128   1   0 C--- df 
+  923     0x7fffdedf5000     0x7fffdedf6000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdedf6000     0x7fffdefd6000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdefd6000     0x7fffdeff6000 rw-    2    2   1   0 CN-D df 
+  923     0x7fffdeff6000     0x7fffdeff7000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdeff7000     0x7fffdf1d7000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdf1d7000     0x7fffdf1f7000 rw-    2    2   1   0 CN-D df 
+  923     0x7fffdf1f7000     0x7fffdf1f8000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdf1f8000     0x7fffdf3d8000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdf3d8000     0x7fffdf3f8000 rw-    2    2   1   0 CN-D df 
+  923     0x7fffdf3f8000     0x7fffdf3f9000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdf3f9000     0x7fffdf5d9000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdf5d9000     0x7fffdf5f9000 rw-    1    1   1   0 CN-D df 
+  923     0x7fffdf5f9000     0x7fffdf5fa000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdf5fa000     0x7fffdf7da000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdf7da000     0x7fffdf7fa000 rw-    1    1   1   0 CN-D df 
+  923     0x7fffdf7fa000     0x7fffdf7fb000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdf7fb000     0x7fffdf9db000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdf9db000     0x7fffdf9fb000 rw-    2    2   1   0 CN-D df 
+  923     0x7fffdf9fb000     0x7fffdf9fc000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdf9fc000     0x7fffdfbdc000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdfbdc000     0x7fffdfbfc000 rw-    1    1   1   0 CN-D df 
+  923     0x7fffdfbfc000     0x7fffdfbfd000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdfbfd000     0x7fffdfddd000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdfddd000     0x7fffdfdfd000 rw-    1    1   1   0 CN-D df 
+  923     0x7fffdfdfd000     0x7fffdfdfe000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdfdfe000     0x7fffdffde000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdffde000     0x7fffdfffe000 rw-    1    1   1   0 CN-D df 
+  923     0x7fffdfffe000     0x7fffdffff000 ---    0    0   0   0 ---- -- 
+  923     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- -- 
+  923     0x7ffffffdf000     0x7ffffffff000 rw-   20   20   1   0 C--D df 
+  923     0x7ffffffff000     0x800000000000 r-x    1    1  25   0 ---- ph 
