@@ -1,0 +1,189 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+19757           0x400000          0x2c18000 r-x 10264 11080   2   1 CN-- vn /usr/local/libexec/mysqld
+19757          0x2e18000          0x3139000 rw-  801    0   1   0 C--- vn /usr/local/libexec/mysqld
+19757          0x3139000          0x323b000 rw-  219  219   1   0 ---- df
+19757        0x802e18000        0x802e38000 r-x   32   32  28   0 CN-- vn /libexec/ld-elf.so.1
+19757        0x802e38000        0x802e41000 rw-    9    9   1   0 ---- df
+19757        0x802e41000        0x802f9c000 rw-  275  275   1   0 ---- df
+19757        0x803037000        0x803039000 rw-    2    2   1   0 ---- df
+19757        0x803039000        0x80305a000 r-x   33   33   2   1 CN-- vn /usr/local/lib/liblz4.so.1.8.1
+19757        0x80305a000        0x803259000 ---    0    0   0   0 CN-- --
+19757        0x803259000        0x80325a000 rw-    1    0   1   0 C--- vn /usr/local/lib/liblz4.so.1.8.1
+19757        0x80325a000        0x803267000 r-x   13   15  18   8 CN-- vn /lib/libcrypt.so.5
+19757        0x803267000        0x803467000 ---    0    0   0   0 CN-- --
+19757        0x803467000        0x803468000 rw-    1    0   1   0 C--- vn /lib/libcrypt.so.5
+19757        0x803468000        0x803479000 rw-    0    0   0   0 ---- --
+19757        0x803479000        0x8034e2000 r-x  105  128   2   1 CN-- vn /usr/lib/libssl.so.8
+19757        0x8034e2000        0x8036e1000 ---    0    0   0   0 CN-- --
+19757        0x8036e1000        0x8036ec000 rw-   11    0   1   0 C--- vn /usr/lib/libssl.so.8
+19757        0x803800000        0x803a44000 r-x  513  565  10   4 CN-- vn /lib/libcrypto.so.8
+19757        0x803a44000        0x803c43000 ---    0    0   0   0 CN-- --
+19757        0x803c43000        0x803c6d000 rw-   42    0   1   0 C--- vn /lib/libcrypto.so.8
+19757        0x803c6d000        0x803c6f000 rw-    2    2   1   0 ---- df
+19757        0x803c6f000        0x803c87000 r-x   24   25  10   4 CN-- vn /lib/libz.so.6
+19757        0x803c87000        0x803e86000 ---    0    0   0   0 CN-- --
+19757        0x803e86000        0x803e87000 rw-    1    0   1   0 C--- vn /lib/libz.so.6
+19757        0x803e87000        0x803eb4000 r-x   45   50   4   2 CN-- vn /lib/libm.so.5
+19757        0x803eb4000        0x8040b3000 ---    0    0   0   0 CN-- --
+19757        0x8040b3000        0x8040b4000 rw-    1    0   1   0 C--- vn /lib/libm.so.5
+19757        0x8040b4000        0x8040b9000 r-x    5    6   2   1 CN-- vn /usr/lib/librt.so.1
+19757        0x8040b9000        0x8042b9000 ---    0    0   0   0 CN-- --
+19757        0x8042b9000        0x8042ba000 rw-    1    0   1   0 C--- vn /usr/lib/librt.so.1
+19757        0x8042ba000        0x8042bd000 r-x    3    3   2   1 CN-- vn /usr/lib/libexecinfo.so.1
+19757        0x8042bd000        0x8044bc000 ---    0    0   0   0 CN-- --
+19757        0x8044bc000        0x8044bd000 rw-    1    0   1   0 C--- vn /usr/lib/libexecinfo.so.1
+19757        0x8044bd000        0x804583000 r-x  177  195   2   1 CN-- vn /usr/lib/libc++.so.1
+19757        0x804583000        0x804782000 ---    0    0   0   0 CN-- --
+19757        0x804782000        0x804788000 rw-    6    0   1   0 C--- vn /usr/lib/libc++.so.1
+19757        0x804788000        0x80478b000 rw-    3    3   1   0 ---- df
+19757        0x80478b000        0x8047a5000 r-x   26   27   2   1 CN-- vn /lib/libcxxrt.so.1
+19757        0x8047a5000        0x8049a4000 ---    0    0   0   0 CN-- --
+19757        0x8049a4000        0x8049a6000 rw-    2    0   1   0 C--- vn /lib/libcxxrt.so.1
+19757        0x8049a6000        0x8049aa000 rw-    0    0   0   0 ---- --
+19757        0x8049aa000        0x8049b8000 r-x   14   15   2   1 CN-- vn /lib/libgcc_s.so.1
+19757        0x8049b8000        0x804bb8000 ---    0    0   0   0 CN-- --
+19757        0x804bb8000        0x804bb9000 rw-    1    0   1   0 C--- vn /lib/libgcc_s.so.1
+19757        0x804bb9000        0x804bd4000 r-x   27   30  12   6 CN-- vn /lib/libthr.so.3
+19757        0x804bd4000        0x804dd4000 ---    0    0   0   0 CN-- --
+19757        0x804dd4000        0x804dd5000 rw-    1    0   1   0 C--- vn /lib/libthr.so.3
+19757        0x804dd5000        0x804de1000 rw-   11   11   1   0 ---- df
+19757        0x804de1000        0x804f78000 r-x  377  405  53  25 CN-- vn /lib/libc.so.7
+19757        0x804f78000        0x805177000 ---    0    0   0   0 CN-- --
+19757        0x805177000        0x805184000 rw-   13    0   1   0 C--- vn /lib/libc.so.7
+19757        0x805184000        0x80519d000 rw-   18   18   1   0 ---- df
+19757        0x80519d000        0x8051b4000 r-x   23   25   4   2 CN-- vn /lib/libelf.so.2
+19757        0x8051b4000        0x8053b3000 ---    0    0   0   0 CN-- --
+19757        0x8053b3000        0x8053b4000 rw-    1    0   1   0 C--- vn /lib/libelf.so.2
+19757        0x805400000        0x82e310000 rw- 69897 101051   9   0 --S- df
+19757        0x82e400000        0x836d10000 rw- 2993 101051   9   0 --S- df
+19757        0x836e00000        0x83f510000 rw- 2368 101051   9   0 --S- df
+19757        0x83f600000        0x847f10000 rw- 2501 101051   9   0 --S- df
+19757        0x848000000        0x850710000 rw- 1856 101051   9   0 --S- df
+19757        0x850800000        0x859110000 rw- 2680 101051   9   0 --S- df
+19757        0x859200000        0x861910000 rw- 2776 101051   9   0 --S- df
+19757        0x861a00000        0x86a310000 rw- 3276 101051   9   0 --S- df
+19757        0x86a400000        0x876200000 rw- 12704 101051   9   0 --S- df
+19757     0x7fffdb18f000     0x7fffdb190000 ---    0    0   0   0 ---- --
+19757     0x7fffdb190000     0x7fffdb370000 ---    0    0   0   0 ---- --
+19757     0x7fffdb370000     0x7fffdb390000 rw-    1    1   1   0 ---D df
+19757     0x7fffdb390000     0x7fffdb391000 ---    0    0   0   0 ---- --
+19757     0x7fffdb391000     0x7fffdb3b8000 ---    0    0   0   0 ---- --
+19757     0x7fffdb3b8000     0x7fffdb3d8000 rw-    1    1   1   0 ---D df
+19757     0x7fffdb3d8000     0x7fffdb3d9000 ---    0    0   0   0 ---- --
+19757     0x7fffdb3d9000     0x7fffdb5b9000 ---    0    0   0   0 ---- --
+19757     0x7fffdb5b9000     0x7fffdb5d9000 rw-    5    5   1   0 ---D df
+19757     0x7fffdb5d9000     0x7fffdb5da000 ---    0    0   0   0 ---- --
+19757     0x7fffdb5da000     0x7fffdb7ba000 ---    0    0   0   0 ---- --
+19757     0x7fffdb7ba000     0x7fffdb7da000 rw-    7    7   1   0 ---D df
+19757     0x7fffdb7da000     0x7fffdb7db000 ---    0    0   0   0 ---- --
+19757     0x7fffdb7db000     0x7fffdb9bb000 ---    0    0   0   0 ---- --
+19757     0x7fffdb9bb000     0x7fffdb9db000 rw-    1    1   1   0 ---D df
+19757     0x7fffdb9db000     0x7fffdb9dc000 ---    0    0   0   0 ---- --
+19757     0x7fffdb9dc000     0x7fffdbbbc000 ---    0    0   0   0 ---- --
+19757     0x7fffdbbbc000     0x7fffdbbdc000 rw-    1    1   1   0 ---D df
+19757     0x7fffdbbdc000     0x7fffdbbdd000 ---    0    0   0   0 ---- --
+19757     0x7fffdbbdd000     0x7fffdbdbd000 ---    0    0   0   0 ---- --
+19757     0x7fffdbdbd000     0x7fffdbddd000 rw-    7    7   1   0 ---D df
+19757     0x7fffdbddd000     0x7fffdbdde000 ---    0    0   0   0 ---- --
+19757     0x7fffdbdde000     0x7fffdbfbe000 ---    0    0   0   0 ---- --
+19757     0x7fffdbfbe000     0x7fffdbfde000 rw-    1    1   1   0 ---D df
+19757     0x7fffdbfde000     0x7fffdbfdf000 ---    0    0   0   0 ---- --
+19757     0x7fffdbfdf000     0x7fffdc1bf000 ---    0    0   0   0 ---- --
+19757     0x7fffdc1bf000     0x7fffdc1df000 rw-    1    1   1   0 ---D df
+19757     0x7fffdc1df000     0x7fffdc1e0000 ---    0    0   0   0 ---- --
+19757     0x7fffdc1e0000     0x7fffdc3c0000 ---    0    0   0   0 ---- --
+19757     0x7fffdc3c0000     0x7fffdc3e0000 rw-    1    1   1   0 ---D df
+19757     0x7fffdc3e0000     0x7fffdc3e1000 ---    0    0   0   0 ---- --
+19757     0x7fffdc3e1000     0x7fffdc5c1000 ---    0    0   0   0 ---- --
+19757     0x7fffdc5c1000     0x7fffdc5e1000 rw-    2    2   1   0 ---D df
+19757     0x7fffdc5e1000     0x7fffdc5e2000 ---    0    0   0   0 ---- --
+19757     0x7fffdc5e2000     0x7fffdc7c2000 ---    0    0   0   0 ---- --
+19757     0x7fffdc7c2000     0x7fffdc7e2000 rw-    6    6   1   0 ---D df
+19757     0x7fffdc7e2000     0x7fffdc7e3000 ---    0    0   0   0 ---- --
+19757     0x7fffdc7e3000     0x7fffdc9c3000 ---    0    0   0   0 ---- --
+19757     0x7fffdc9c3000     0x7fffdc9e3000 rw-    1    1   1   0 ---D df
+19757     0x7fffdc9e3000     0x7fffdc9e4000 ---    0    0   0   0 ---- --
+19757     0x7fffdc9e4000     0x7fffdcbc4000 ---    0    0   0   0 ---- --
+19757     0x7fffdcbc4000     0x7fffdcbe4000 rw-    1    1   1   0 ---D df
+19757     0x7fffdcbe4000     0x7fffdcbe5000 ---    0    0   0   0 ---- --
+19757     0x7fffdcbe5000     0x7fffdcdc5000 ---    0    0   0   0 ---- --
+19757     0x7fffdcdc5000     0x7fffdcde5000 rw-    1    1   1   0 ---D df
+19757     0x7fffdcde5000     0x7fffdcde6000 ---    0    0   0   0 ---- --
+19757     0x7fffdcde6000     0x7fffdcfc6000 ---    0    0   0   0 ---- --
+19757     0x7fffdcfc6000     0x7fffdcfe6000 rw-    1    1   1   0 ---D df
+19757     0x7fffdcfe6000     0x7fffdcfe7000 ---    0    0   0   0 ---- --
+19757     0x7fffdcfe7000     0x7fffdd1c7000 ---    0    0   0   0 ---- --
+19757     0x7fffdd1c7000     0x7fffdd1e7000 rw-    1    1   1   0 ---D df
+19757     0x7fffdd1e7000     0x7fffdd1e8000 ---    0    0   0   0 ---- --
+19757     0x7fffdd1e8000     0x7fffdd3c8000 ---    0    0   0   0 ---- --
+19757     0x7fffdd3c8000     0x7fffdd3e8000 rw-    1    1   1   0 ---D df
+19757     0x7fffdd3e8000     0x7fffdd3e9000 ---    0    0   0   0 ---- --
+19757     0x7fffdd3e9000     0x7fffdd5c9000 ---    0    0   0   0 ---- --
+19757     0x7fffdd5c9000     0x7fffdd5e9000 rw-    1    1   1   0 ---D df
+19757     0x7fffdd5e9000     0x7fffdd5ea000 ---    0    0   0   0 ---- --
+19757     0x7fffdd5ea000     0x7fffdd7ca000 ---    0    0   0   0 ---- --
+19757     0x7fffdd7ca000     0x7fffdd7ea000 rw-    1    1   1   0 ---D df
+19757     0x7fffdd7ea000     0x7fffdd7eb000 ---    0    0   0   0 ---- --
+19757     0x7fffdd7eb000     0x7fffdd9cb000 ---    0    0   0   0 ---- --
+19757     0x7fffdd9cb000     0x7fffdd9eb000 rw-    1    1   1   0 ---D df
+19757     0x7fffdd9eb000     0x7fffdd9ec000 ---    0    0   0   0 ---- --
+19757     0x7fffdd9ec000     0x7fffddbcc000 ---    0    0   0   0 ---- --
+19757     0x7fffddbcc000     0x7fffddbec000 rw-    1    1   1   0 ---D df
+19757     0x7fffddbec000     0x7fffddbed000 ---    0    0   0   0 ---- --
+19757     0x7fffddbed000     0x7fffdddcd000 ---    0    0   0   0 ---- --
+19757     0x7fffdddcd000     0x7fffddded000 rw-    1    1   1   0 ---D df
+19757     0x7fffddded000     0x7fffdddee000 ---    0    0   0   0 ---- --
+19757     0x7fffdddee000     0x7fffddfce000 ---    0    0   0   0 ---- --
+19757     0x7fffddfce000     0x7fffddfee000 rw-    2    2   1   0 ---D df
+19757     0x7fffddfee000     0x7fffddfef000 ---    0    0   0   0 ---- --
+19757     0x7fffddfef000     0x7fffde1cf000 ---    0    0   0   0 ---- --
+19757     0x7fffde1cf000     0x7fffde1ef000 rw-    2    2   1   0 ---D df
+19757     0x7fffde1ef000     0x7fffde1f0000 ---    0    0   0   0 ---- --
+19757     0x7fffde1f0000     0x7fffde3d0000 ---    0    0   0   0 ---- --
+19757     0x7fffde3d0000     0x7fffde3f0000 rw-    2    2   1   0 ---D df
+19757     0x7fffde3f0000     0x7fffde3f1000 ---    0    0   0   0 ---- --
+19757     0x7fffde3f1000     0x7fffde5d1000 ---    0    0   0   0 ---- --
+19757     0x7fffde5d1000     0x7fffde5f1000 rw-    2    2   1   0 ---D df
+19757     0x7fffde5f1000     0x7fffde5f2000 ---    0    0   0   0 ---- --
+19757     0x7fffde5f2000     0x7fffde7d2000 ---    0    0   0   0 ---- --
+19757     0x7fffde7d2000     0x7fffde7f2000 rw-    2    2   1   0 ---D df
+19757     0x7fffde7f2000     0x7fffde7f3000 ---    0    0   0   0 ---- --
+19757     0x7fffde7f3000     0x7fffde9d3000 ---    0    0   0   0 ---- --
+19757     0x7fffde9d3000     0x7fffde9f3000 rw-    1    1   1   0 ---D df
+19757     0x7fffde9f3000     0x7fffde9f4000 ---    0    0   0   0 ---- --
+19757     0x7fffde9f4000     0x7fffdebd4000 ---    0    0   0   0 ---- --
+19757     0x7fffdebd4000     0x7fffdebf4000 rw-    1    1   1   0 ---D df
+19757     0x7fffdebf4000     0x7fffdebf5000 ---    0    0   0   0 ---- --
+19757     0x7fffdebf5000     0x7fffdedd5000 ---    0    0   0   0 ---- --
+19757     0x7fffdedd5000     0x7fffdedf5000 rw-    1    1   1   0 ---D df
+19757     0x7fffdedf5000     0x7fffdedf6000 ---    0    0   0   0 ---- --
+19757     0x7fffdedf6000     0x7fffdefd6000 ---    0    0   0   0 ---- --
+19757     0x7fffdefd6000     0x7fffdeff6000 rw-    1    1   1   0 ---D df
+19757     0x7fffdeff6000     0x7fffdeff7000 ---    0    0   0   0 ---- --
+19757     0x7fffdeff7000     0x7fffdf1d7000 ---    0    0   0   0 ---- --
+19757     0x7fffdf1d7000     0x7fffdf1f7000 rw-    1    1   1   0 ---D df
+19757     0x7fffdf1f7000     0x7fffdf1f8000 ---    0    0   0   0 ---- --
+19757     0x7fffdf1f8000     0x7fffdf3d8000 ---    0    0   0   0 ---- --
+19757     0x7fffdf3d8000     0x7fffdf3f8000 rw-    2    2   1   0 ---D df
+19757     0x7fffdf3f8000     0x7fffdf3f9000 ---    0    0   0   0 ---- --
+19757     0x7fffdf3f9000     0x7fffdf5d9000 ---    0    0   0   0 ---- --
+19757     0x7fffdf5d9000     0x7fffdf5f9000 rw-    1    1   1   0 ---D df
+19757     0x7fffdf5f9000     0x7fffdf5fa000 ---    0    0   0   0 ---- --
+19757     0x7fffdf5fa000     0x7fffdf7da000 ---    0    0   0   0 ---- --
+19757     0x7fffdf7da000     0x7fffdf7fa000 rw-    1    1   1   0 ---D df
+19757     0x7fffdf7fa000     0x7fffdf7fb000 ---    0    0   0   0 ---- --
+19757     0x7fffdf7fb000     0x7fffdf9db000 ---    0    0   0   0 ---- --
+19757     0x7fffdf9db000     0x7fffdf9fb000 rw-    1    1   1   0 ---D df
+19757     0x7fffdf9fb000     0x7fffdf9fc000 ---    0    0   0   0 ---- --
+19757     0x7fffdf9fc000     0x7fffdfbdc000 ---    0    0   0   0 ---- --
+19757     0x7fffdfbdc000     0x7fffdfbfc000 rw-    1    1   1   0 ---D df
+19757     0x7fffdfbfc000     0x7fffdfbfd000 ---    0    0   0   0 ---- --
+19757     0x7fffdfbfd000     0x7fffdfddd000 ---    0    0   0   0 ---- --
+19757     0x7fffdfddd000     0x7fffdfdfd000 rw-   16   16   1   0 ---D df
+19757     0x7fffdfdfd000     0x7fffdfdfe000 ---    0    0   0   0 ---- --
+19757     0x7fffdfdfe000     0x7fffdffde000 ---    0    0   0   0 ---- --
+19757     0x7fffdffde000     0x7fffdfffe000 rw-    1    1   1   0 ---D df
+19757     0x7fffdfffe000     0x7fffdffff000 ---    0    0   0   0 ---- --
+19757     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+19757     0x7ffffffdf000     0x7ffffffff000 rw-   13   13   1   0 ---D df
+19757     0x7ffffffff000     0x800000000000 r-x    1    1  31   0 ---- ph

@@ -1,0 +1,113 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+10640           0x400000           0x7a1000 r-x  929 1184   2   1 CN-- vn /usr/local/bin/php-cgi
+10640           0x9a1000           0xa1a000 rw-  121    0   1   0 C--- vn /usr/local/bin/php-cgi
+10640           0xa1a000           0xa36000 rw-   11   11   1   0 ---- df
+10640        0x8009a1000        0x8009c1000 r-x   32   32  35   0 CN-- vn /libexec/ld-elf.so.1
+10640        0x8009c1000        0x8009f2000 rw-   46   46   1   0 ---- df
+10640        0x8009f3000        0x800a0c000 rw-    5    5   1   0 ---- df
+10640        0x800bc0000        0x800bc2000 rw-    2    2   1   0 ---- df
+10640        0x800bc2000        0x800bd9000 r-x   23   25   4   2 CN-- vn /lib/libelf.so.2
+10640        0x800bd9000        0x800dd8000 ---    0    0   0   0 CN-- --
+10640        0x800dd8000        0x800dd9000 rw-    1    0   1   0 C--- vn /lib/libelf.so.2
+10640        0x800dd9000        0x800de6000 r-x   13   15  18   8 CN-- vn /lib/libcrypt.so.5
+10640        0x800de6000        0x800fe6000 ---    0    0   0   0 CN-- --
+10640        0x800fe6000        0x800fe7000 rw-    1    0   1   0 C--- vn /lib/libcrypt.so.5
+10640        0x800fe7000        0x800ff8000 rw-    0    0   0   0 ---- --
+10640        0x800ff8000        0x801002000 r-x   10   10   2   1 CN-- vn /usr/local/lib/libargon2.so.0
+10640        0x801002000        0x801201000 ---    0    0   0   0 CN-- --
+10640        0x801201000        0x801202000 rw-    1    0   1   0 C--- vn /usr/local/lib/libargon2.so.0
+10640        0x801202000        0x801284000 r-x  130  144   2   1 CN-- vn /usr/local/lib/libpcre.so.1.2.8
+10640        0x801284000        0x801484000 ---    0    0   0   0 CN-- --
+10640        0x801484000        0x801485000 rw-    1    0   1   0 C--- vn /usr/local/lib/libpcre.so.1.2.8
+10640        0x801485000        0x8014b2000 r-x   45   50   4   2 CN-- vn /lib/libm.so.5
+10640        0x8014b2000        0x8016b1000 ---    0    0   0   0 CN-- --
+10640        0x8016b1000        0x8016b2000 rw-    1    0   1   0 C--- vn /lib/libm.so.5
+10640        0x8016b2000        0x8016cd000 r-x   27   30  14   7 CN-- vn /lib/libthr.so.3
+10640        0x8016cd000        0x8018cd000 ---    0    0   0   0 CN-- --
+10640        0x8018cd000        0x8018ce000 rw-    1    0   1   0 C--- vn /lib/libthr.so.3
+10640        0x8018ce000        0x8018da000 rw-   11   11   1   0 ---- df
+10640        0x8018da000        0x801a62000 r-x  392  416   2   1 CN-- vn /usr/local/lib/libxml2.so.2.9.7
+10640        0x801a62000        0x801c61000 ---    0    0   0   0 CN-- --
+10640        0x801c61000        0x801c6c000 rw-   11    0   1   0 C--- vn /usr/local/lib/libxml2.so.2.9.7
+10640        0x801c6c000        0x801c6d000 rw-    1    1   1   0 ---- df
+10640        0x801c6d000        0x801c85000 r-x   24   25  10   4 CN-- vn /lib/libz.so.6
+10640        0x801c85000        0x801e84000 ---    0    0   0   0 CN-- --
+10640        0x801e84000        0x801e85000 rw-    1    0   1   0 C--- vn /lib/libz.so.6
+10640        0x801e85000        0x801eae000 r-x   41   42   2   1 CN-- vn /usr/lib/liblzma.so.5
+10640        0x801eae000        0x8020ad000 ---    0    0   0   0 CN-- --
+10640        0x8020ad000        0x8020ae000 rw-    1    0   1   0 C--- vn /usr/lib/liblzma.so.5
+10640        0x8020ae000        0x802245000 r-x  377  405  67  32 CN-- vn /lib/libc.so.7
+10640        0x802245000        0x802444000 ---    0    0   0   0 CN-- --
+10640        0x802444000        0x802451000 rw-   13    0   1   0 C--- vn /lib/libc.so.7
+10640        0x802451000        0x80246a000 rw-   13  402   2   0 ---- df
+10640        0x802600000        0x802c00000 rw-  389  402   2   0 ---- df
+10640        0x802c00000        0x802c6a000 r-x  106  128   2   1 CN-- vn /usr/local/lib/php/20170718/opcache.so
+10640        0x802c6a000        0x802e69000 ---    0    0   0   0 CN-- --
+10640        0x802e69000        0x802e71000 rw-    8    0   1   0 C--- vn /usr/local/lib/php/20170718/opcache.so
+10640        0x802e71000        0x802e73000 rw-    2    2   1   0 ---- df
+10640        0x802e73000        0x802e87000 r-x   20   23   2   1 CN-- vn /usr/local/lib/php/20170718/session.so
+10640        0x802e87000        0x803086000 ---    0    0   0   0 CN-- --
+10640        0x803086000        0x803089000 rw-    3    0   1   0 C--- vn /usr/local/lib/php/20170718/session.so
+10640        0x803089000        0x80308c000 r-x    3    4   2   1 CN-- vn /usr/local/lib/php/20170718/ctype.so
+10640        0x80308c000        0x80328c000 ---    0    0   0   0 CN-- --
+10640        0x80328c000        0x80328d000 rw-    1    0   1   0 C--- vn /usr/local/lib/php/20170718/ctype.so
+10640        0x80328d000        0x8032b6000 r-x   41   46   2   1 CN-- vn /usr/local/lib/php/20170718/dom.so
+10640        0x8032b6000        0x8034b6000 ---    0    0   0   0 CN-- --
+10640        0x8034b6000        0x8034bb000 rw-    5    0   1   0 C--- vn /usr/local/lib/php/20170718/dom.so
+10640        0x8034bb000        0x8034c5000 r-x   10   11   2   1 CN-- vn /usr/local/lib/php/20170718/filter.so
+10640        0x8034c5000        0x8036c4000 ---    0    0   0   0 CN-- --
+10640        0x8036c4000        0x8036c5000 rw-    1    0   1   0 C--- vn /usr/local/lib/php/20170718/filter.so
+10640        0x8036c5000        0x803702000 r-x   61   64   2   1 CN-- vn /usr/local/lib/php/20170718/hash.so
+10640        0x803702000        0x803902000 ---    0    0   0   0 CN-- --
+10640        0x803902000        0x803904000 rw-    2    0   1   0 C--- vn /usr/local/lib/php/20170718/hash.so
+10640        0x803904000        0x80390d000 r-x    9   11   2   1 CN-- vn /usr/local/lib/php/20170718/iconv.so
+10640        0x80390d000        0x803b0d000 ---    0    0   0   0 CN-- --
+10640        0x803b0d000        0x803b0e000 rw-    1    0   1   0 C--- vn /usr/local/lib/php/20170718/iconv.so
+10640        0x803b0e000        0x803c07000 r-x  249  272   2   1 CN-- vn /usr/local/lib/libiconv.so.2.5.1
+10640        0x803c07000        0x803e07000 ---    0    0   0   0 CN-- --
+10640        0x803e07000        0x803e09000 rw-    2    0   1   0 C--- vn /usr/local/lib/libiconv.so.2.5.1
+10640        0x803e09000        0x803e13000 r-x   10   11   2   1 CN-- vn /usr/local/lib/php/20170718/json.so
+10640        0x803e13000        0x804012000 ---    0    0   0   0 CN-- --
+10640        0x804012000        0x804013000 rw-    1    0   1   0 C--- vn /usr/local/lib/php/20170718/json.so
+10640        0x804013000        0x80402a000 r-x   23   26   2   1 CN-- vn /usr/local/lib/php/20170718/pdo.so
+10640        0x80402a000        0x80422a000 ---    0    0   0   0 CN-- --
+10640        0x80422a000        0x80422d000 rw-    3    0   1   0 C--- vn /usr/local/lib/php/20170718/pdo.so
+10640        0x80422d000        0x804234000 r-x    7    9   2   1 CN-- vn /usr/local/lib/php/20170718/posix.so
+10640        0x804234000        0x804434000 ---    0    0   0   0 CN-- --
+10640        0x804434000        0x804435000 rw-    1    0   1   0 C--- vn /usr/local/lib/php/20170718/posix.so
+10640        0x804435000        0x804442000 r-x   13   15   2   1 CN-- vn /usr/local/lib/php/20170718/simplexml.so
+10640        0x804442000        0x804642000 ---    0    0   0   0 CN-- --
+10640        0x804642000        0x804643000 rw-    1    0   1   0 C--- vn /usr/local/lib/php/20170718/simplexml.so
+10640        0x804643000        0x80464d000 r-x   10   12   2   1 CN-- vn /usr/local/lib/php/20170718/sqlite3.so
+10640        0x80464d000        0x80484c000 ---    0    0   0   0 CN-- --
+10640        0x80484c000        0x80484e000 rw-    2    0   1   0 C--- vn /usr/local/lib/php/20170718/sqlite3.so
+10640        0x80484e000        0x8049bf000 r-x  369  384   2   1 CN-- vn /usr/local/lib/libsqlite3.so.0.8.6
+10640        0x8049bf000        0x804bbe000 ---    0    0   0   0 CN-- --
+10640        0x804bbe000        0x804bc3000 rw-    5    0   1   0 C--- vn /usr/local/lib/libsqlite3.so.0.8.6
+10640        0x804bc3000        0x804bc8000 r-x    5    5   2   1 CN-- vn /usr/local/lib/php/20170718/tokenizer.so
+10640        0x804bc8000        0x804dc7000 ---    0    0   0   0 CN-- --
+10640        0x804dc7000        0x804dc8000 rw-    1    0   1   0 C--- vn /usr/local/lib/php/20170718/tokenizer.so
+10640        0x804dc8000        0x804dd3000 r-x   11   13   2   1 CN-- vn /usr/local/lib/php/20170718/xml.so
+10640        0x804dd3000        0x804fd2000 ---    0    0   0   0 CN-- --
+10640        0x804fd2000        0x804fd4000 rw-    2    0   1   0 C--- vn /usr/local/lib/php/20170718/xml.so
+10640        0x804fd4000        0x804fdd000 r-x    9   12   2   1 CN-- vn /usr/local/lib/php/20170718/xmlwriter.so
+10640        0x804fdd000        0x8051dc000 ---    0    0   0   0 CN-- --
+10640        0x8051dc000        0x8051df000 rw-    3    0   1   0 C--- vn /usr/local/lib/php/20170718/xmlwriter.so
+10640        0x8051df000        0x8051e5000 r-x    6    6   2   1 CN-- vn /usr/local/lib/php/20170718/pdo_sqlite.so
+10640        0x8051e5000        0x8053e4000 ---    0    0   0   0 CN-- --
+10640        0x8053e4000        0x8053e5000 rw-    1    0   1   0 C--- vn /usr/local/lib/php/20170718/pdo_sqlite.so
+10640        0x8053e5000        0x8053ea000 r-x    5    6   2   1 CN-- vn /usr/lib/librt.so.1
+10640        0x8053ea000        0x8055ea000 ---    0    0   0   0 CN-- --
+10640        0x8055ea000        0x8055eb000 rw-    1    0   1   0 C--- vn /usr/lib/librt.so.1
+10640        0x8055eb000        0x80562a000 r-x   63   67   2   1 CN-- vn /usr/local/lib/php/20170718/phar.so
+10640        0x80562a000        0x80582a000 ---    0    0   0   0 CN-- --
+10640        0x80582a000        0x80582d000 rw-    3    0   1   0 C--- vn /usr/local/lib/php/20170718/phar.so
+10640        0x80582d000        0x805834000 r-x    7    9   2   1 CN-- vn /usr/local/lib/php/20170718/xmlreader.so
+10640        0x805834000        0x805a34000 ---    0    0   0   0 CN-- --
+10640        0x805a34000        0x805a35000 rw-    1    0   1   0 C--- vn /usr/local/lib/php/20170718/xmlreader.so
+10640        0x805a35000        0x80da35000 rw-  355  380   2   0 ---- df
+10640        0x80dc00000        0x80de00000 rw-   25  380   2   0 ---- df
+10640     0x7fffdfffe000     0x7fffdffff000 ---    0    0   0   0 ---- --
+10640     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+10640     0x7ffffffdf000     0x7ffffffff000 rwx    4    4   1   0 ---D df
+10640     0x7ffffffff000     0x800000000000 r-x    1    1  43   0 ---- ph

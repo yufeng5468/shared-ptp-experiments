@@ -1,0 +1,64 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+19786           0x400000           0x42a000 r-x   42   43   1   0 CN-- vn /usr/local/bin/memcached
+19786           0x629000           0x63f000 rw-   22   22   1   0 ---- df
+19786        0x800629000        0x800649000 r-x   32   32  29   0 CN-- vn /libexec/ld-elf.so.1
+19786        0x800649000        0x800671000 rw-   34   34   1   0 ---- df
+19786        0x800671000        0x800677000 rw-    6    6   1   0 ---- df
+19786        0x800848000        0x80084a000 rw-    2    2   1   0 ---- df
+19786        0x80084a000        0x800865000 r-x   27   30  14   7 CN-- vn /lib/libthr.so.3
+19786        0x800865000        0x800a65000 ---    0    0   0   0 CN-- --
+19786        0x800a65000        0x800a66000 rw-    1    0   1   0 C--- vn /lib/libthr.so.3
+19786        0x800a66000        0x800a72000 rw-   11   11   1   0 ---- df
+19786        0x800a72000        0x800a73000 r-x    1    2   2   1 CN-- vn /lib/libumem.so.2
+19786        0x800a73000        0x800c72000 ---    0    0   0   0 CN-- --
+19786        0x800c72000        0x800c73000 rw-    1    0   1   0 C--- vn /lib/libumem.so.2
+19786        0x800c73000        0x800cc1000 r-x   78   80   2   1 CN-- vn /usr/local/lib/libevent-2.1.so.6.0.2
+19786        0x800cc1000        0x800ec0000 ---    0    0   0   0 CN-- --
+19786        0x800ec0000        0x800ec2000 rw-    2    0   1   0 C--- vn /usr/local/lib/libevent-2.1.so.6.0.2
+19786        0x800ec2000        0x800ede000 r-x   28   33   2   1 CN-- vn /usr/local/lib/libsasl2.so.3.0.0
+19786        0x800ede000        0x8010de000 ---    0    0   0   0 CN-- --
+19786        0x8010de000        0x8010df000 rw-    1    0   1   0 C--- vn /usr/local/lib/libsasl2.so.3.0.0
+19786        0x8010df000        0x801276000 r-x  377  405  55  26 CN-- vn /lib/libc.so.7
+19786        0x801276000        0x801475000 ---    0    0   0   0 CN-- --
+19786        0x801475000        0x801482000 rw-   13    0   1   0 C--- vn /lib/libc.so.7
+19786        0x801482000        0x80149b000 rw-   11   11   1   0 ---- df
+19786        0x801600000        0x801844000 r-x  513  565  12   5 CN-- vn /lib/libcrypto.so.8
+19786        0x801844000        0x801a43000 ---    0    0   0   0 CN-- --
+19786        0x801a43000        0x801a6d000 rw-   42    0   1   0 C--- vn /lib/libcrypto.so.8
+19786        0x801a6d000        0x801a6f000 rw-    1    1   1   0 ---- df
+19786        0x801a6f000        0x801a70000 r-x    1    2   2   1 CN-- vn /usr/lib/libdl.so.1
+19786        0x801a70000        0x801c6f000 ---    0    0   0   0 CN-- --
+19786        0x801c6f000        0x801c70000 rw-    1    0   1   0 C--- vn /usr/lib/libdl.so.1
+19786        0x801e00000        0x802200000 rw-  230  230   1   0 ---- df
+19786        0x802200000        0x803000000 rw-   94   94   1   0 ---- df
+19786     0x7fffdedf5000     0x7fffdedf6000 ---    0    0   0   0 ---- --
+19786     0x7fffdedf6000     0x7fffdefd6000 ---    0    0   0   0 ---- --
+19786     0x7fffdefd6000     0x7fffdeff6000 rwx    1    1   1   0 ---D df
+19786     0x7fffdeff6000     0x7fffdeff7000 ---    0    0   0   0 ---- --
+19786     0x7fffdeff7000     0x7fffdf1d7000 ---    0    0   0   0 ---- --
+19786     0x7fffdf1d7000     0x7fffdf1f7000 rwx    1    1   1   0 ---D df
+19786     0x7fffdf1f7000     0x7fffdf1f8000 ---    0    0   0   0 ---- --
+19786     0x7fffdf1f8000     0x7fffdf3d8000 ---    0    0   0   0 ---- --
+19786     0x7fffdf3d8000     0x7fffdf3f8000 rwx    1    1   1   0 ---D df
+19786     0x7fffdf3f8000     0x7fffdf3f9000 ---    0    0   0   0 ---- --
+19786     0x7fffdf3f9000     0x7fffdf5d9000 ---    0    0   0   0 ---- --
+19786     0x7fffdf5d9000     0x7fffdf5f9000 rwx    1    1   1   0 ---D df
+19786     0x7fffdf5f9000     0x7fffdf5fa000 ---    0    0   0   0 ---- --
+19786     0x7fffdf5fa000     0x7fffdf7da000 ---    0    0   0   0 ---- --
+19786     0x7fffdf7da000     0x7fffdf7fa000 rwx    1    1   1   0 ---D df
+19786     0x7fffdf7fa000     0x7fffdf7fb000 ---    0    0   0   0 ---- --
+19786     0x7fffdf7fb000     0x7fffdf9db000 ---    0    0   0   0 ---- --
+19786     0x7fffdf9db000     0x7fffdf9fb000 rwx    1    1   1   0 ---D df
+19786     0x7fffdf9fb000     0x7fffdf9fc000 ---    0    0   0   0 ---- --
+19786     0x7fffdf9fc000     0x7fffdfbdc000 ---    0    0   0   0 ---- --
+19786     0x7fffdfbdc000     0x7fffdfbfc000 rwx    1    1   1   0 ---D df
+19786     0x7fffdfbfc000     0x7fffdfbfd000 ---    0    0   0   0 ---- --
+19786     0x7fffdfbfd000     0x7fffdfddd000 ---    0    0   0   0 ---- --
+19786     0x7fffdfddd000     0x7fffdfdfd000 rwx    1    1   1   0 ---D df
+19786     0x7fffdfdfd000     0x7fffdfdfe000 ---    0    0   0   0 ---- --
+19786     0x7fffdfdfe000     0x7fffdffde000 ---    0    0   0   0 ---- --
+19786     0x7fffdffde000     0x7fffdfffe000 rwx    2    2   1   0 ---D df
+19786     0x7fffdfffe000     0x7fffdffff000 ---    0    0   0   0 ---- --
+19786     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+19786     0x7ffffffdf000     0x7ffffffff000 rwx    3    3   1   0 ---D df
+19786     0x7ffffffff000     0x800000000000 r-x    1    1  32   0 ---- ph
