@@ -1,0 +1,166 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+ 1040           0x400000           0x401000 r-x    1    1   1   0 CN-- vn /usr/local/bin/python2.7
+ 1040           0x600000           0x601000 rw-    1    1   1   0 ---- df
+ 1040        0x800600000        0x800620000 r-x   32   32  22   0 CN-- vn /libexec/ld-elf.so.1
+ 1040        0x800620000        0x800810000 rw-  495  496   2   0 ---- df
+ 1040        0x800810000        0x800811000 rwx    1  496   2   0 ---- df
+ 1040        0x800811000        0x80081a000 rw-    9    9   1   0 ---- df
+ 1040        0x80081f000        0x800821000 rw-    2    2   1   0 ---- df
+ 1040        0x800821000        0x80083c000 r-x   27   28   8   4 CN-- vn /lib/libthr.so.3
+ 1040        0x80083c000        0x800a3c000 ---    0    0   0   0 CN-- --
+ 1040        0x800a3c000        0x800a3d000 rw-    1    0   1   0 C--- vn /lib/libthr.so.3
+ 1040        0x800a3d000        0x800a49000 rw-   11   11   1   0 ---- df
+ 1040        0x800a49000        0x800bd7000 r-x  384  453   2   1 CN-- vn /usr/local/lib/libpython2.7.so.1
+ 1040        0x800bd7000        0x800dd7000 ---    0    0   0   0 CN-- --
+ 1040        0x800dd7000        0x800e14000 rw-   61    0   1   0 C--- vn /usr/local/lib/libpython2.7.so.1
+ 1040        0x800e14000        0x800e32000 rw-   30   30   1   0 ---- df
+ 1040        0x800e32000        0x800e33000 r-x    1    1   2   1 CN-- vn /usr/lib/libdl.so.1
+ 1040        0x800e33000        0x801032000 ---    0    0   0   0 CN-- --
+ 1040        0x801032000        0x801033000 rw-    1    0   1   0 C--- vn /usr/lib/libdl.so.1
+ 1040        0x801033000        0x80103d000 r-x    8    9   2   1 CN-- vn /usr/local/lib/libintl.so.8.1.5
+ 1040        0x80103d000        0x80123d000 ---    0    0   0   0 CN-- --
+ 1040        0x80123d000        0x80123e000 rw-    1    0   1   0 C--- vn /usr/local/lib/libintl.so.8.1.5
+ 1040        0x80123e000        0x80124f000 r-x   16   17  37  18 CN-- vn /lib/libutil.so.9
+ 1040        0x80124f000        0x80144f000 ---    0    0   0   0 CN-- --
+ 1040        0x80144f000        0x801450000 rw-    1    0   1   0 C--- vn /lib/libutil.so.9
+ 1040        0x801450000        0x801452000 rw-    0    0   0   0 ---- --
+ 1040        0x801452000        0x80147f000 r-x   45   45   4   2 CN-- vn /lib/libm.so.5
+ 1040        0x80147f000        0x80167e000 ---    0    0   0   0 CN-- --
+ 1040        0x80167e000        0x80167f000 rw-    1    0   1   0 C--- vn /lib/libm.so.5
+ 1040        0x80167f000        0x801816000 r-x  377  397  43  21 CN-- vn /lib/libc.so.7
+ 1040        0x801816000        0x801a15000 ---    0    0   0   0 CN-- --
+ 1040        0x801a15000        0x801a22000 rw-   13    0   1   0 C--- vn /lib/libc.so.7
+ 1040        0x801a22000        0x801a3b000 rw-   13  499   2   0 ---- df
+ 1040        0x801a3b000        0x801bcd000 rw-  397  397   1   0 ---- df
+ 1040        0x801c00000        0x802000000 rw-  486  499   2   0 ---- df
+ 1040        0x802000000        0x802004000 r-x    4    5   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/_locale.so
+ 1040        0x802004000        0x802204000 ---    0    0   0   0 CN-- --
+ 1040        0x802204000        0x802205000 rw-    1    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/_locale.so
+ 1040        0x802205000        0x802385000 rw-  384  384   1   0 ---- df
+ 1040        0x802400000        0x802600000 rw-  512  512   1   0 --S- df
+ 1040        0x802600000        0x802607000 r-x    7    8   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/math.so
+ 1040        0x802607000        0x802806000 ---    0    0   0   0 CN-- --
+ 1040        0x802806000        0x802808000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/math.so
+ 1040        0x802808000        0x8029e3000 r-x  288  311   2   1 CN-- vn /usr/local/lib/python2.7/site-packages/numpy/core/multiarray.so
+ 1040        0x8029e3000        0x802be3000 ---    0    0   0   0 CN-- --
+ 1040        0x802be3000        0x802bf2000 rw-   15    0   1   0 C--- vn /usr/local/lib/python2.7/site-packages/numpy/core/multiarray.so
+ 1040        0x802bf2000        0x802c05000 rw-    4    4   1   0 ---- df
+ 1040        0x802c05000        0x802c59000 r-x   36   37   2   1 CN-- vn /usr/local/lib/libblas.so.2
+ 1040        0x802c59000        0x802e59000 ---    0    0   0   0 CN-- --
+ 1040        0x802e59000        0x802e5a000 rw-    1    0   1   0 C--- vn /usr/local/lib/libblas.so.2
+ 1040        0x802e5a000        0x802e6f000 r-x   21   22   2   1 CN-- vn /usr/local/lib/libcblas.so.2
+ 1040        0x802e6f000        0x80306f000 ---    0    0   0   0 CN-- --
+ 1040        0x80306f000        0x803070000 rw-    1    0   1   0 C--- vn /usr/local/lib/libcblas.so.2
+ 1040        0x803070000        0x803195000 r-x   80   90   2   1 CN-- vn /usr/local/lib/gcc6/libgfortran.so.3.0.0
+ 1040        0x803195000        0x803395000 ---    0    0   0   0 CN-- --
+ 1040        0x803395000        0x803397000 rw-    2    0   1   0 C--- vn /usr/local/lib/gcc6/libgfortran.so.3.0.0
+ 1040        0x803397000        0x8033ad000 r-x   22   22   2   1 CN-- vn /usr/local/lib/gcc6/libgcc_s.so.1
+ 1040        0x8033ad000        0x8035ac000 ---    0    0   0   0 CN-- --
+ 1040        0x8035ac000        0x8035ad000 rw-    1    0   1   0 C--- vn /usr/local/lib/gcc6/libgcc_s.so.1
+ 1040        0x8035ad000        0x8035ec000 r-x   33   33   2   1 CN-- vn /usr/local/lib/gcc6/libquadmath.so.0.0.0
+ 1040        0x8035ec000        0x8037eb000 ---    0    0   0   0 CN-- --
+ 1040        0x8037eb000        0x8037ec000 rw-    1    0   1   0 C--- vn /usr/local/lib/gcc6/libquadmath.so.0.0.0
+ 1040        0x8037ec000        0x8037fe000 r-x   18   21   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/datetime.so
+ 1040        0x8037fe000        0x8039fd000 ---    0    0   0   0 CN-- --
+ 1040        0x8039fd000        0x803a01000 rw-    4    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/datetime.so
+ 1040        0x803a01000        0x803b95000 r-x  160  174   2   1 CN-- vn /usr/local/lib/python2.7/site-packages/numpy/core/umath.so
+ 1040        0x803b95000        0x803d95000 ---    0    0   0   0 CN-- --
+ 1040        0x803d95000        0x803d9b000 rw-    6    0   1   0 C--- vn /usr/local/lib/python2.7/site-packages/numpy/core/umath.so
+ 1040        0x803d9b000        0x803d9d000 rw-    2    2   1   0 ---- df
+ 1040        0x803d9d000        0x803db6000 r-x   25   29   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/_ctypes.so
+ 1040        0x803db6000        0x803fb6000 ---    0    0   0   0 CN-- --
+ 1040        0x803fb6000        0x803fba000 rw-    4    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/_ctypes.so
+ 1040        0x803fba000        0x803fc1000 r-x    7    7   2   1 CN-- vn /usr/local/lib/libffi.so.6.0.4
+ 1040        0x803fc1000        0x8041c0000 ---    0    0   0   0 CN-- --
+ 1040        0x8041c0000        0x8041c1000 rw-    1    0   1   0 C--- vn /usr/local/lib/libffi.so.6.0.4
+ 1040        0x8041c1000        0x8041c8000 r-x    7    9   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/_struct.so
+ 1040        0x8041c8000        0x8043c8000 ---    0    0   0   0 CN-- --
+ 1040        0x8043c8000        0x8043ca000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/_struct.so
+ 1040        0x8043ca000        0x8043d0000 r-x    6    8   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/_collections.so
+ 1040        0x8043d0000        0x8045d0000 ---    0    0   0   0 CN-- --
+ 1040        0x8045d0000        0x8045d2000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/_collections.so
+ 1040        0x8045d2000        0x8045da000 r-x    8   10   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/operator.so
+ 1040        0x8045da000        0x8047da000 ---    0    0   0   0 CN-- --
+ 1040        0x8047da000        0x8047dc000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/operator.so
+ 1040        0x8047dc000        0x8047e6000 r-x   10   14   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/itertools.so
+ 1040        0x8047e6000        0x8049e5000 ---    0    0   0   0 CN-- --
+ 1040        0x8049e5000        0x8049ea000 rw-    5    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/itertools.so
+ 1040        0x8049ea000        0x8049ed000 r-x    3    5   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/_heapq.so
+ 1040        0x8049ed000        0x804bed000 ---    0    0   0   0 CN-- --
+ 1040        0x804bed000        0x804bef000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/_heapq.so
+ 1040        0x804bef000        0x804c01000 r-x   18   19   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/cPickle.so
+ 1040        0x804c01000        0x804e00000 ---    0    0   0   0 CN-- --
+ 1040        0x804e00000        0x804e02000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/cPickle.so
+ 1040        0x804e02000        0x804e06000 r-x    4    5   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/cStringIO.so
+ 1040        0x804e06000        0x805005000 ---    0    0   0   0 CN-- --
+ 1040        0x805005000        0x805007000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/cStringIO.so
+ 1040        0x805007000        0x805009000 r-x    2    3   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/_functools.so
+ 1040        0x805009000        0x805209000 ---    0    0   0   0 CN-- --
+ 1040        0x805209000        0x80520a000 rw-    1    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/_functools.so
+ 1040        0x805400000        0x805600000 rw-  469  469   1   0 ---- df
+ 1040        0x805600000        0x805604000 r-x    4    5   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/time.so
+ 1040        0x805604000        0x805803000 ---    0    0   0   0 CN-- --
+ 1040        0x805803000        0x805805000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/time.so
+ 1040        0x805805000        0x80580a000 r-x    5    6   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/zlib.so
+ 1040        0x80580a000        0x805a09000 ---    0    0   0   0 CN-- --
+ 1040        0x805a09000        0x805a0b000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/zlib.so
+ 1040        0x805a0b000        0x805a23000 r-x   24   24   8   4 CN-- vn /lib/libz.so.6
+ 1040        0x805a23000        0x805c22000 ---    0    0   0   0 CN-- --
+ 1040        0x805c22000        0x805c23000 rw-    1    0   1   0 C--- vn /lib/libz.so.6
+ 1040        0x805c23000        0x805c2a000 r-x    7    9   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/bz2.so
+ 1040        0x805c2a000        0x805e29000 ---    0    0   0   0 CN-- --
+ 1040        0x805e29000        0x805e2c000 rw-    3    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/bz2.so
+ 1040        0x805e2c000        0x805e3f000 r-x   19   20   2   1 CN-- vn /usr/lib/libbz2.so.4
+ 1040        0x805e3f000        0x80603e000 ---    0    0   0   0 CN-- --
+ 1040        0x80603e000        0x806040000 rw-    2    0   1   0 C--- vn /usr/lib/libbz2.so.4
+ 1040        0x806040000        0x806042000 r-x    2    2   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/grp.so
+ 1040        0x806042000        0x806241000 ---    0    0   0   0 CN-- --
+ 1040        0x806241000        0x806242000 rw-    1    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/grp.so
+ 1040        0x806242000        0x80625d000 r-x   27   36   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/_io.so
+ 1040        0x80625d000        0x80645c000 ---    0    0   0   0 CN-- --
+ 1040        0x80645c000        0x806466000 rw-   10    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/_io.so
+ 1040        0x806466000        0x80646a000 r-x    4    5   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/binascii.so
+ 1040        0x80646a000        0x80666a000 ---    0    0   0   0 CN-- --
+ 1040        0x80666a000        0x80666b000 rw-    1    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/binascii.so
+ 1040        0x80666b000        0x80666f000 r-x    4    5   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/_hashlib.so
+ 1040        0x80666f000        0x80686f000 ---    0    0   0   0 CN-- --
+ 1040        0x80686f000        0x806870000 rw-    1    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/_hashlib.so
+ 1040        0x806870000        0x8068d9000 r-x   57   75   2   1 CN-- vn /usr/lib/libssl.so.8
+ 1040        0x8068d9000        0x806ad8000 ---    0    0   0   0 CN-- --
+ 1040        0x806ad8000        0x806ae3000 rw-   11    0   1   0 C--- vn /usr/lib/libssl.so.8
+ 1040        0x806c00000        0x806e44000 r-x  481  530   8   4 CN-- vn /lib/libcrypto.so.8
+ 1040        0x806e44000        0x807043000 ---    0    0   0   0 CN-- --
+ 1040        0x807043000        0x80706d000 rw-   42    0   1   0 C--- vn /lib/libcrypto.so.8
+ 1040        0x80706d000        0x80706f000 rw-    2    2   1   0 ---- df
+ 1040        0x80706f000        0x807072000 r-x    3    3   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/_random.so
+ 1040        0x807072000        0x807271000 ---    0    0   0   0 CN-- --
+ 1040        0x807271000        0x807272000 rw-    1    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/_random.so
+ 1040        0x807272000        0x807274000 r-x    2    3   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/fcntl.so
+ 1040        0x807274000        0x807473000 ---    0    0   0   0 CN-- --
+ 1040        0x807473000        0x807475000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/fcntl.so
+ 1040        0x807475000        0x807478000 r-x    3    3   2   1 CN-- vn /usr/local/lib/python2.7/site-packages/numpy/linalg/lapack_lite.so
+ 1040        0x807478000        0x807677000 ---    0    0   0   0 CN-- --
+ 1040        0x807677000        0x807678000 rw-    1    0   1   0 C--- vn /usr/local/lib/python2.7/site-packages/numpy/linalg/lapack_lite.so
+ 1040        0x807800000        0x807d3b000 r-x   49   60   2   1 CN-- vn /usr/local/lib/liblapack.so.4
+ 1040        0x807d3b000        0x807f3a000 ---    0    0   0   0 CN-- --
+ 1040        0x807f3a000        0x807f3e000 rw-    4    0   1   0 C--- vn /usr/local/lib/liblapack.so.4
+ 1040        0x807f3e000        0x80804c000 rw-    0    0   0   0 ---- --
+ 1040        0x80804c000        0x80806b000 r-x   31   32   2   1 CN-- vn /usr/local/lib/python2.7/site-packages/numpy/linalg/_umath_linalg.so
+ 1040        0x80806b000        0x80826a000 ---    0    0   0   0 CN-- --
+ 1040        0x80826a000        0x80826c000 rw-    2    0   1   0 C--- vn /usr/local/lib/python2.7/site-packages/numpy/linalg/_umath_linalg.so
+ 1040        0x80826c000        0x80826d000 r-x    1    2   2   1 CN-- vn /usr/local/lib/python2.7/lib-dynload/future_builtins.so
+ 1040        0x80826d000        0x80846d000 ---    0    0   0   0 CN-- --
+ 1040        0x80846d000        0x80846e000 rw-    1    0   1   0 C--- vn /usr/local/lib/python2.7/lib-dynload/future_builtins.so
+ 1040        0x80846e000        0x80847b000 r-x   13   13   2   1 CN-- vn /usr/local/lib/python2.7/site-packages/numpy/fft/fftpack_lite.so
+ 1040        0x80847b000        0x80867a000 ---    0    0   0   0 CN-- --
+ 1040        0x80867a000        0x80867b000 rw-    1    0   1   0 C--- vn /usr/local/lib/python2.7/site-packages/numpy/fft/fftpack_lite.so
+ 1040        0x80867b000        0x808730000 r-x   85  113   2   1 CN-- vn /usr/local/lib/python2.7/site-packages/numpy/random/mtrand.so
+ 1040        0x808730000        0x80892f000 ---    0    0   0   0 CN-- --
+ 1040        0x80892f000        0x808954000 rw-   21    0   1   0 C--- vn /usr/local/lib/python2.7/site-packages/numpy/random/mtrand.so
+ 1040        0x808954000        0x808955000 rw-    1 120927   2   0 ---- df
+ 1040        0x808a00000        0x826400000 rw- 120926 120927   2   0 --S- df
+ 1040     0x7fffdfffe000     0x7fffdffff000 ---    0    0   0   0 ---- --
+ 1040     0x7fffdffff000     0x7fffe0000000 ---    0    0   0   0 ---- --
+ 1040     0x7fffe0000000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+ 1040     0x7ffffffdf000     0x7ffffffff000 rw-    6    6   1   0 ---D df
+ 1040     0x7ffffffff000     0x800000000000 r-x    1    1  25   0 ---- ph
