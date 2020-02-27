@@ -1,0 +1,150 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+10452           0x400000           0x401000 r-x    1    2   1   0 CN-- vn /usr/local/openjdk8/bin/javac
+10452           0x600000           0x601000 rw-    1    1   1   0 ---- df
+10452        0x800600000        0x800620000 r-x   32   34  26   0 CN-- vn /libexec/ld-elf.so.1
+10452        0x800620000        0x800629000 rw-    9    9   1   0 ---- df
+10452        0x800629000        0x800652000 rw-   37   39   3   0 ---- df
+10452        0x800652000        0x800653000 r--    1   39   3   0 ---- df
+10452        0x800653000        0x800654000 rw-    1   39   3   0 ---- df
+10452        0x800654000        0x80065c000 rw-    8    8   1   0 ---- vn
+10452        0x80065c000        0x80070d000 rw-   18   18   1   0 ---- df
+10452        0x80070d000        0x800787000 r--  122 4488   1   0 ---- vn /usr/local/openjdk8/lib/tools.jar
+10452        0x80081f000        0x800821000 rw-    2    2   1   0 ---- df
+10452        0x800821000        0x80082e000 r-x   13   16   2   1 CN-- vn /usr/local/openjdk8/lib/amd64/jli/libjli.so
+10452        0x80082e000        0x800a2d000 ---    0    0   0   0 CN-- --
+10452        0x800a2d000        0x800a2e000 rw-    1    0   1   0 C--- vn /usr/local/openjdk8/lib/amd64/jli/libjli.so
+10452        0x800a2e000        0x800a46000 r-x   24   25  10   5 CN-- vn /lib/libz.so.6
+10452        0x800a46000        0x800c45000 ---    0    0   0   0 CN-- --
+10452        0x800c45000        0x800c46000 rw-    1    0   1   0 C--- vn /lib/libz.so.6
+10452        0x800c46000        0x800c61000 r-x   27   30  12   6 CN-- vn /lib/libthr.so.3
+10452        0x800c61000        0x800e61000 ---    0    0   0   0 CN-- --
+10452        0x800e61000        0x800e62000 rw-    1    0   1   0 C--- vn /lib/libthr.so.3
+10452        0x800e62000        0x800e6e000 rw-   11   11   1   0 ---- df
+10452        0x800e6e000        0x801005000 r-x  377  400  51  25 CN-- vn /lib/libc.so.7
+10452        0x801005000        0x801204000 ---    0    0   0   0 CN-- --
+10452        0x801204000        0x801211000 rw-   13    0   1   0 C--- vn /lib/libc.so.7
+10452        0x801211000        0x80122a000 rw-   16  227   2   0 ---- df
+10452        0x80122a000        0x8013f8000 r--  462 15880   1   0 ---- vn /usr/local/openjdk8/jre/lib/rt.jar
+10452        0x801400000        0x801800000 rw-  211  227   2   0 ---- df
+10452        0x801800000        0x802339000 r-x 2873 3680   2   1 CNS- vn /usr/local/openjdk8/jre/lib/amd64/server/libjvm.so
+10452        0x802339000        0x802539000 ---    0    0   0   0 CN-- --
+10452        0x802539000        0x8025f1000 rw-  184    0   1   0 C--- vn /usr/local/openjdk8/jre/lib/amd64/server/libjvm.so
+10452        0x8025f1000        0x802628000 rw-   55   55   1   0 ---- df
+10452        0x802628000        0x802655000 r-x   45   47   4   2 CN-- vn /lib/libm.so.5
+10452        0x802655000        0x802854000 ---    0    0   0   0 CN-- --
+10452        0x802854000        0x802855000 rw-    1    0   1   0 C--- vn /lib/libm.so.5
+10452        0x802855000        0x80291b000 r-x  129  143   2   1 CN-- vn /usr/lib/libc++.so.1
+10452        0x80291b000        0x802b1a000 ---    0    0   0   0 CN-- --
+10452        0x802b1a000        0x802b20000 rw-    6    0   1   0 C--- vn /usr/lib/libc++.so.1
+10452        0x802b20000        0x802b23000 rw-    3    3   1   0 ---- df
+10452        0x802b23000        0x802b3d000 r-x   26   27   2   1 CN-- vn /lib/libcxxrt.so.1
+10452        0x802b3d000        0x802d3c000 ---    0    0   0   0 CN-- --
+10452        0x802d3c000        0x802d3e000 rw-    2    0   1   0 C--- vn /lib/libcxxrt.so.1
+10452        0x802d3e000        0x802d42000 rw-    0    0   0   0 ---- --
+10452        0x802d42000        0x802d50000 r-x   14   15   2   1 CN-- vn /lib/libgcc_s.so.1
+10452        0x802d50000        0x802f50000 ---    0    0   0   0 CN-- --
+10452        0x802f50000        0x802f51000 rw-    1    0   1   0 C--- vn /lib/libgcc_s.so.1
+10452        0x803000000        0x803200000 rw-  469  469   1   0 ---- df
+10452        0x803200000        0x80320e000 r-x   14   18   2   1 CN-- vn /usr/local/openjdk8/jre/lib/amd64/libverify.so
+10452        0x80320e000        0x80340e000 ---    0    0   0   0 CN-- --
+10452        0x80340e000        0x803410000 rw-    2    0   1   0 C--- vn /usr/local/openjdk8/jre/lib/amd64/libverify.so
+10452        0x803410000        0x80343a000 r-x   42   52   2   1 CN-- vn /usr/local/openjdk8/jre/lib/amd64/libjava.so
+10452        0x80343a000        0x803639000 ---    0    0   0   0 CN-- --
+10452        0x803639000        0x80363b000 rw-    2    0   1   0 C--- vn /usr/local/openjdk8/jre/lib/amd64/libjava.so
+10452        0x80363b000        0x803643000 r-x    8   11   2   1 CN-- vn /usr/local/openjdk8/jre/lib/amd64/libzip.so
+10452        0x803643000        0x803842000 ---    0    0   0   0 CN-- --
+10452        0x803842000        0x803843000 rw-    1    0   1   0 C--- vn /usr/local/openjdk8/jre/lib/amd64/libzip.so
+10452        0x803a00000        0x803e00000 rwx  258  258   1   0 ---- df
+10452        0x803e00000        0x812a00000 ---    0    0   2   0 ---- df
+10452        0x812a00000        0x812c00000 rw-   16   16   1   0 ---- df
+10452        0x812c00000        0x812dc0000 ---    0    0   2   0 ---- df
+10452        0x812e00000        0x813000000 ---    0    0   5   0 ---- df
+10452        0x813000000        0x813200000 rw-    3    3   1   0 ---- df
+10452        0x813200000        0x966400000 ---    0    0   5   0 ---- df
+10452        0x966400000        0x967000000 rw- 1520 1520   1   0 --s- df
+10452        0x967000000        0xa0fc00000 ---    0    0   5   0 ---- df
+10452        0xa0fc00000        0xa0fc01000 rw-    1    1   1   0 ---- df
+10452        0xa0fc01000        0xa1069a000 ---    0    0   5   0 ---- df
+10452        0xa1069a000        0xa106a0000 rw-    6    6   1   0 ---- df
+10452        0xa106a0000        0xa10be6000 ---    0    0   5   0 ---- df
+10452        0xa10be6000        0xa10be7000 rw-    1    9   4   0 ---- df
+10452        0xa10be7000        0xa10be8000 rw-    1    1   1   0 ---- df
+10452        0xa10be8000        0xa11681000 ---    0    9   4   0 ---- df
+10452        0xa11681000        0xa224c7000 rw-    0    9   4   0 ---- df
+10452        0xa22600000        0xa22800000 rw-    8    9   4   0 ---- df
+10452        0xa22800000        0xa22a00000 rw-    6 2300   4   0 ---- df
+10452        0xa22a00000        0xa22ae0000 rw-  206  206   1   0 ---- df
+10452        0xa22ae0000        0xa62a00000 ---    0 2300   4   0 ---- df
+10452        0xa62a00000        0xa63100000 rw- 1485 1485   1   0 --s- df
+10452        0xa63100000        0xa63200000 ---    0 2300   4   0 ---- df
+10452        0xa63200000        0xa68c00000 rw- 2294 2300   4   0 ---- df
+10452     0x7fffdeceb000     0x7fffdecec000 ---    0    0   0   0 ---- --
+10452     0x7fffdecec000     0x7fffdedcc000 ---    0    0   0   0 ---- --
+10452     0x7fffdedcc000     0x7fffdedec000 rw-    1    1   1   0 ---D df
+10452     0x7fffdedec000     0x7fffdeded000 ---    0    0   0   0 ---- --
+10452     0x7fffdeded000     0x7fffdedf0000 ---    0    0   0   0 ---- --
+10452     0x7fffdedf0000     0x7fffdeecd000 ---    0    0   0   0 ---- --
+10452     0x7fffdeecd000     0x7fffdeeed000 rw-    1    1   1   0 ---D df
+10452     0x7fffdeeed000     0x7fffdeeee000 ---    0    0   0   0 ---- --
+10452     0x7fffdeeee000     0x7fffdeef1000 ---    0    0   0   0 ---- --
+10452     0x7fffdeef1000     0x7fffdefce000 ---    0    0   0   0 ---- --
+10452     0x7fffdefce000     0x7fffdefee000 rw-    2    2   1   0 ---D df
+10452     0x7fffdefee000     0x7fffdefef000 ---    0    0   0   0 ---- --
+10452     0x7fffdefef000     0x7fffdeff2000 ---    0    0   0   0 ---- --
+10452     0x7fffdeff2000     0x7fffdf0cf000 ---    0    0   0   0 ---- --
+10452     0x7fffdf0cf000     0x7fffdf0ef000 rw-    6    6   1   0 ---D df
+10452     0x7fffdf0ef000     0x7fffdf0f0000 ---    0    0   0   0 ---- --
+10452     0x7fffdf0f0000     0x7fffdf0f3000 ---    0    0   0   0 ---- --
+10452     0x7fffdf0f3000     0x7fffdf1d0000 ---    0    0   0   0 ---- --
+10452     0x7fffdf1d0000     0x7fffdf1f0000 rw-    5    5   1   0 ---D df
+10452     0x7fffdf1f0000     0x7fffdf1f1000 ---    0    0   0   0 ---- --
+10452     0x7fffdf1f1000     0x7fffdf1f4000 ---    0    0   0   0 ---- --
+10452     0x7fffdf1f4000     0x7fffdf2d1000 ---    0    0   0   0 ---- --
+10452     0x7fffdf2d1000     0x7fffdf2f1000 rw-    6    6   1   0 ---D df
+10452     0x7fffdf2f1000     0x7fffdf2f2000 ---    0    0   0   0 ---- --
+10452     0x7fffdf2f2000     0x7fffdf2f5000 ---    0    0   0   0 ---- --
+10452     0x7fffdf2f5000     0x7fffdf3d2000 ---    0    0   0   0 ---- --
+10452     0x7fffdf3d2000     0x7fffdf3f2000 rw-    1    1   1   0 ---D df
+10452     0x7fffdf3f2000     0x7fffdf3f3000 ---    0    0   0   0 ---- --
+10452     0x7fffdf3f3000     0x7fffdf3f6000 ---    0    0   0   0 ---- --
+10452     0x7fffdf3f6000     0x7fffdf4d3000 ---    0    0   0   0 ---- --
+10452     0x7fffdf4d3000     0x7fffdf4f3000 rw-   21   21   1   0 ---D df
+10452     0x7fffdf4f3000     0x7fffdf4f4000 ---    0    0   0   0 ---- --
+10452     0x7fffdf4f4000     0x7fffdf4f7000 ---    0    0   0   0 ---- --
+10452     0x7fffdf4f7000     0x7fffdf5d4000 ---    0    0   0   0 ---- --
+10452     0x7fffdf5d4000     0x7fffdf5f4000 rw-   21   21   1   0 ---D df
+10452     0x7fffdf5f4000     0x7fffdf5f5000 ---    0    0   0   0 ---- --
+10452     0x7fffdf5f5000     0x7fffdf6d5000 ---    0    0   0   0 ---- --
+10452     0x7fffdf6d5000     0x7fffdf6f5000 rw-    2    2   1   0 ---D df
+10452     0x7fffdf6f5000     0x7fffdf6f6000 ---    0    0   0   0 ---- --
+10452     0x7fffdf6f6000     0x7fffdf7d6000 ---    0    0   0   0 ---- --
+10452     0x7fffdf7d6000     0x7fffdf7f6000 rw-    2    2   1   0 ---D df
+10452     0x7fffdf7f6000     0x7fffdf7f7000 ---    0    0   0   0 ---- --
+10452     0x7fffdf7f7000     0x7fffdf8d7000 ---    0    0   0   0 ---- --
+10452     0x7fffdf8d7000     0x7fffdf8f7000 rw-    1    1   1   0 ---D df
+10452     0x7fffdf8f7000     0x7fffdf8f8000 ---    0    0   0   0 ---- --
+10452     0x7fffdf8f8000     0x7fffdf9d8000 ---    0    0   0   0 ---- --
+10452     0x7fffdf9d8000     0x7fffdf9f8000 rw-    1    1   1   0 ---D df
+10452     0x7fffdf9f8000     0x7fffdf9f9000 ---    0    0   0   0 ---- --
+10452     0x7fffdf9f9000     0x7fffdfad9000 ---    0    0   0   0 ---- --
+10452     0x7fffdfad9000     0x7fffdfaf9000 rw-    1    1   1   0 ---D df
+10452     0x7fffdfaf9000     0x7fffdfafa000 ---    0    0   0   0 ---- --
+10452     0x7fffdfafa000     0x7fffdfbda000 ---    0    0   0   0 ---- --
+10452     0x7fffdfbda000     0x7fffdfbfa000 rw-    1    1   1   0 ---D df
+10452     0x7fffdfbfa000     0x7fffdfbfb000 ---    0    0   0   0 ---- --
+10452     0x7fffdfbfb000     0x7fffdfcdb000 ---    0    0   0   0 ---- --
+10452     0x7fffdfcdb000     0x7fffdfcfb000 rw-    2    2   1   0 ---D df
+10452     0x7fffdfcfb000     0x7fffdfcfc000 ---    0    0   0   0 ---- --
+10452     0x7fffdfcfc000     0x7fffdfddc000 ---    0    0   0   0 ---- --
+10452     0x7fffdfddc000     0x7fffdfdfc000 rw-    2    2   1   0 ---D df
+10452     0x7fffdfdfc000     0x7fffdfdfd000 ---    0    0   0   0 ---- --
+10452     0x7fffdfdfd000     0x7fffdfedd000 ---    0    0   0   0 ---- --
+10452     0x7fffdfedd000     0x7fffdfefd000 rw-    2    2   1   0 ---D df
+10452     0x7fffdfefd000     0x7fffdfefe000 ---    0    0   0   0 ---- --
+10452     0x7fffdfefe000     0x7fffdff01000 ---    0    0   0   0 ---- --
+10452     0x7fffdff01000     0x7fffdffde000 ---    0    0   0   0 ---- --
+10452     0x7fffdffde000     0x7fffdfffe000 rw-   29   29   1   0 ---D df
+10452     0x7fffdfffe000     0x7fffdffff000 ---    0    0   0   0 ---- --
+10452     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+10452     0x7ffffffdf000     0x7ffffffff000 rw-    4    4   1   0 ---D df
+10452     0x7ffffffff000     0x800000000000 r-x    1    1  29   0 ---- ph
