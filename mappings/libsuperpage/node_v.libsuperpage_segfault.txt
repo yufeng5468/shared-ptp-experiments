@@ -1,0 +1,79 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+92293           0x400000          0x1a00000 r-x    7    7   2   0 CN-- df
+92293          0x1a00000          0x1bf6000 r-x  502 6160   2   1 CN-- vn /usr/local/bin/node
+92293          0x1df5000          0x1e00000 rw-   11    0   1   0 C--- vn /usr/local/bin/node
+92293          0x1e00000          0x1e10000 rw-    2    2   1   0 ---- df
+92293        0x801df5000        0x801e16000 r-x   33   34  24   0 CN-- vn /libexec/ld-elf.so.1
+92293        0x801e16000        0x801e1e000 rw-    8    8   1   0 ---- df
+92293        0x801e1f000        0x801ef6000 rw-  194  194   1   0 ---- df
+92293        0x802016000        0x802018000 rw-    2    2   1   0 ---- df
+92293        0x802200000        0x802201000 r-x    1    3   2   1 CN-- vn /usr/home/yz70/tests/libsuperpage/build/libsuperpage.so
+92293        0x802201000        0x802401000 ---    0    0   0   0 CN-- --
+92293        0x802401000        0x802402000 rw-    1    0   1   0 C--- vn /usr/home/yz70/tests/libsuperpage/build/libsuperpage.so
+92293        0x802600000        0x802618000 r-x   24   25  10   4 CN-- vn /lib/libz.so.6
+92293        0x802618000        0x802818000 ---    0    0   0   0 CN-- --
+92293        0x802818000        0x802819000 rw-    1    0   1   0 C--- vn /lib/libz.so.6
+92293        0x802a00000        0x802a24000 r-x   36   37   2   1 CN-- vn /usr/local/lib/libuv.so.1.0.0
+92293        0x802a24000        0x802c23000 ---    0    0   0   0 CN-- --
+92293        0x802c23000        0x802c25000 rw-    2    0   1   0 C--- vn /usr/local/lib/libuv.so.1.0.0
+92293        0x802e00000        0x802e17000 r-x   23   24   2   1 CN-- vn /usr/local/lib/libcares.so.2.2.0
+92293        0x802e17000        0x803016000 ---    0    0   0   0 CN-- --
+92293        0x803016000        0x803017000 rw-    1    0   1   0 C--- vn /usr/local/lib/libcares.so.2.2.0
+92293        0x803200000        0x803443000 r-x  579  632  12   5 CNS- vn /lib/libcrypto.so.8
+92293        0x803443000        0x803642000 ---    0    0   0   0 CN-- --
+92293        0x803642000        0x80366c000 rw-   42    0   1   0 C--- vn /lib/libcrypto.so.8
+92293        0x80366c000        0x80366e000 rw-    0    0   0   0 ---- --
+92293        0x803800000        0x803868000 r-x  104  122   2   1 CN-- vn /usr/lib/libssl.so.8
+92293        0x803868000        0x803a67000 ---    0    0   0   0 CN-- --
+92293        0x803a67000        0x803a72000 rw-   11    0   1   0 C--- vn /usr/lib/libssl.so.8
+92293        0x803c00000        0x803ed1000 r-x  721  744   2   1 CN-- vn /usr/local/lib/libicui18n.so.60.2
+92293        0x803ed1000        0x8040d0000 ---    0    0   0   0 CN-- --
+92293        0x8040d0000        0x8040e0000 rw-   16    0   1   0 C--- vn /usr/local/lib/libicui18n.so.60.2
+92293        0x804200000        0x8043bc000 r-x  444  472   2   1 CN-- vn /usr/local/lib/libicuuc.so.60.2
+92293        0x8043bc000        0x8045bc000 ---    0    0   0   0 CN-- --
+92293        0x8045bc000        0x8045cf000 rw-   19    0   1   0 C--- vn /usr/local/lib/libicuuc.so.60.2
+92293        0x804600000        0x804601000 r--    1    1   2   0 CN-- vn /usr/local/lib/libicudata.so.60.2
+92293        0x804601000        0x804800000 ---    0    0   0   0 CN-- --
+92293        0x804800000        0x804801000 rw-    1    1   2   0 CN-- vn /usr/local/lib/libicudata.so.60.2
+92293        0x804a00000        0x804a17000 r-x   23   24   4   2 CN-- vn /lib/libelf.so.2
+92293        0x804a17000        0x804c17000 ---    0    0   0   0 CN-- --
+92293        0x804c17000        0x804c18000 rw-    1    0   1   0 C--- vn /lib/libelf.so.2
+92293        0x804e00000        0x804e11000 r-x   17   19  38  19 CN-- vn /lib/libutil.so.9
+92293        0x804e11000        0x805011000 ---    0    0   0   0 CN-- --
+92293        0x805011000        0x805012000 rw-    1    0   1   0 C--- vn /lib/libutil.so.9
+92293        0x805012000        0x805014000 rw-    0    0   0   0 ---- --
+92293        0x805200000        0x80520e000 r-x   14   14   4   2 CN-- vn /lib/libkvm.so.7
+92293        0x80520e000        0x80540d000 ---    0    0   0   0 CN-- --
+92293        0x80540d000        0x80540e000 rw-    1    0   1   0 C--- vn /lib/libkvm.so.7
+92293        0x805600000        0x805603000 r-x    3    3   2   1 CN-- vn /usr/lib/libexecinfo.so.1
+92293        0x805603000        0x805802000 ---    0    0   0   0 CN-- --
+92293        0x805802000        0x805803000 rw-    1    0   1   0 C--- vn /usr/lib/libexecinfo.so.1
+92293        0x805a00000        0x805ac4000 r-x  161  174   2   1 CN-- vn /usr/lib/libc++.so.1
+92293        0x805ac4000        0x805cc3000 ---    0    0   0   0 CN-- --
+92293        0x805cc3000        0x805cc9000 rw-    6    0   1   0 C--- vn /usr/lib/libc++.so.1
+92293        0x805cc9000        0x805ccc000 rw-    1    1   1   0 ---- df
+92293        0x805e00000        0x805e19000 r-x   25   26   2   1 CN-- vn /lib/libcxxrt.so.1
+92293        0x805e19000        0x806018000 ---    0    0   0   0 CN-- --
+92293        0x806018000        0x80601a000 rw-    2    0   1   0 C--- vn /lib/libcxxrt.so.1
+92293        0x80601a000        0x80601e000 rw-    0    0   0   0 ---- --
+92293        0x806200000        0x80622d000 r-x   45   45   4   2 CN-- vn /lib/libm.so.5
+92293        0x80622d000        0x80642c000 ---    0    0   0   0 CN-- --
+92293        0x80642c000        0x80642d000 rw-    1    0   1   0 C--- vn /lib/libm.so.5
+92293        0x806600000        0x80661b000 r-x   27   30  14   7 CN-- vn /lib/libthr.so.3
+92293        0x80661b000        0x80681b000 ---    0    0   0   0 CN-- --
+92293        0x80681b000        0x80681c000 rw-    1    0   1   0 C--- vn /lib/libthr.so.3
+92293        0x80681c000        0x806828000 rw-    0    0   0   0 ---- --
+92293        0x806a00000        0x806b94000 r-x  404  432  46  22 CN-- vn /lib/libc.so.7
+92293        0x806b94000        0x806d93000 ---    0    0   0   0 CN-- --
+92293        0x806d93000        0x806da0000 rw-   13    0   1   0 C--- vn /lib/libc.so.7
+92293        0x806da0000        0x806db9000 rw-    5    5   1   0 ---- df
+92293        0x806e00000        0x806e05000 r-x    5    6   2   1 CN-- vn /usr/lib/librt.so.1
+92293        0x806e05000        0x807005000 ---    0    0   0   0 CN-- --
+92293        0x807005000        0x807006000 rw-    1    0   1   0 C--- vn /usr/lib/librt.so.1
+92293        0x807200000        0x80720e000 r-x   14   15   2   1 CN-- vn /lib/libgcc_s.so.1
+92293        0x80720e000        0x80740e000 ---    0    0   0   0 CN-- --
+92293        0x80740e000        0x80740f000 rw-    1    0   1   0 C--- vn /lib/libgcc_s.so.1
+92293        0x807600000        0x807a00000 rw-   15   15   1   0 ---- df
+92293     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+92293     0x7ffffffdf000     0x7ffffffff000 rw-    3    3   1   0 ---D df
+92293     0x7ffffffff000     0x800000000000 r-x    1    1  27   0 ---- ph

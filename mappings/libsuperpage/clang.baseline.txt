@@ -1,0 +1,60 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+72589           0x400000          0x1e01000 r-x 6657 6912   2   1 CN-- vn /usr/ports/devel/llvm60/work/stage/usr/local/llvm60/bin/clang-cpp
+72589          0x2001000          0x20f0000 rw-  239    0   1   0 C--- vn /usr/ports/devel/llvm60/work/stage/usr/local/llvm60/bin/clang-cpp
+72589          0x20f0000          0x20f3000 rw-    2    2   1   0 ---- df
+72589        0x802001000        0x802021000 r-x   32   34  21   0 CN-- vn /libexec/ld-elf.so.1
+72589        0x802021000        0x802029000 rw-    8    8   1   0 ---- df
+72589        0x80202a000        0x8021d8000 rw-  240  240   1   0 ---- df
+72589        0x802220000        0x802222000 rw-    2    2   1   0 ---- df
+72589        0x802222000        0x802223000 r-x    1    2   2   1 CN-- vn /root/tests/libsuperpage/build/libsleep.so
+72589        0x802223000        0x802422000 ---    0    0   0   0 CN-- --
+72589        0x802422000        0x802423000 rw-    1    0   1   0 C--- vn /root/tests/libsuperpage/build/libsleep.so
+72589        0x802423000        0x80243e000 r-x   27   30   8   4 CN-- vn /lib/libthr.so.3
+72589        0x80243e000        0x80263e000 ---    0    0   0   0 CN-- --
+72589        0x80263e000        0x80263f000 rw-    1    0   1   0 C--- vn /lib/libthr.so.3
+72589        0x80263f000        0x80264b000 rw-    0    0   0   0 ---- --
+72589        0x802800000        0x805fa9000 r-x 14249 15824   2   1 CN-- vn /usr/ports/devel/llvm60/work/stage/usr/local/llvm60/lib/libLLVM-6.0.so
+72589        0x805fa9000        0x8061a8000 ---    0    0   0   0 CN-- --
+72589        0x8061a8000        0x8067c8000 rw- 1568    0   1   0 C-S- vn /usr/ports/devel/llvm60/work/stage/usr/local/llvm60/lib/libLLVM-6.0.so
+72589        0x8067c8000        0x806815000 rw-    0    0   0   0 ---- --
+72589        0x806815000        0x8068db000 r-x  182  200   2   1 CN-- vn /usr/lib/libc++.so.1
+72589        0x8068db000        0x806ada000 ---    0    0   0   0 CN-- --
+72589        0x806ada000        0x806ae0000 rw-    6    0   1   0 C--- vn /usr/lib/libc++.so.1
+72589        0x806ae0000        0x806ae3000 rw-    0    0   0   0 ---- --
+72589        0x806ae3000        0x806afd000 r-x   26   27   2   1 CN-- vn /lib/libcxxrt.so.1
+72589        0x806afd000        0x806cfc000 ---    0    0   0   0 CN-- --
+72589        0x806cfc000        0x806cfe000 rw-    2    0   1   0 C--- vn /lib/libcxxrt.so.1
+72589        0x806cfe000        0x806d02000 rw-    0    0   0   0 ---- --
+72589        0x806d02000        0x806d2f000 r-x   45   50   4   2 CN-- vn /lib/libm.so.5
+72589        0x806d2f000        0x806f2e000 ---    0    0   0   0 CN-- --
+72589        0x806f2e000        0x806f2f000 rw-    1    0   1   0 C--- vn /lib/libm.so.5
+72589        0x806f2f000        0x8070c6000 r-x  407  448  41  20 CN-- vn /lib/libc.so.7
+72589        0x8070c6000        0x8072c5000 ---    0    0   0   0 CN-- --
+72589        0x8072c5000        0x8072d2000 rw-   13    0   1   0 C--- vn /lib/libc.so.7
+72589        0x8072d2000        0x8072eb000 rw-    6    6   1   0 ---- df
+72589        0x8072eb000        0x80731a000 r-x   47   50   2   1 CN-- vn /usr/local/lib/libedit.so.0.0.56
+72589        0x80731a000        0x80751a000 ---    0    0   0   0 CN-- --
+72589        0x80751a000        0x80751c000 rw-    2    0   1   0 C--- vn /usr/local/lib/libedit.so.0.0.56
+72589        0x80751c000        0x807520000 rw-    0    0   0   0 ---- --
+72589        0x807520000        0x807538000 r-x   24   25   6   3 CN-- vn /lib/libz.so.6
+72589        0x807538000        0x807737000 ---    0    0   0   0 CN-- --
+72589        0x807737000        0x807738000 rw-    1    0   1   0 C--- vn /lib/libz.so.6
+72589        0x807738000        0x80773d000 r-x    5    6   2   1 CN-- vn /usr/lib/librt.so.1
+72589        0x80773d000        0x80793d000 ---    0    0   0   0 CN-- --
+72589        0x80793d000        0x80793e000 rw-    1    0   1   0 C--- vn /usr/lib/librt.so.1
+72589        0x80793e000        0x807941000 r-x    3    3   2   1 CN-- vn /usr/lib/libexecinfo.so.1
+72589        0x807941000        0x807b40000 ---    0    0   0   0 CN-- --
+72589        0x807b40000        0x807b41000 rw-    1    0   1   0 C--- vn /usr/lib/libexecinfo.so.1
+72589        0x807b41000        0x807b91000 r-x   80   85   4   2 CN-- vn /lib/libncurses.so.8
+72589        0x807b91000        0x807d91000 ---    0    0   0   0 CN-- --
+72589        0x807d91000        0x807d96000 rw-    5    0   1   0 C--- vn /lib/libncurses.so.8
+72589        0x807d96000        0x807da4000 r-x   14   15   2   1 CN-- vn /lib/libgcc_s.so.1
+72589        0x807da4000        0x807fa4000 ---    0    0   0   0 CN-- --
+72589        0x807fa4000        0x807fa5000 rw-    1    0   1   0 C--- vn /lib/libgcc_s.so.1
+72589        0x807fa5000        0x807fbc000 r-x   23   25   4   2 CN-- vn /lib/libelf.so.2
+72589        0x807fbc000        0x8081bb000 ---    0    0   0   0 CN-- --
+72589        0x8081bb000        0x8081bc000 rw-    1    0   1   0 C--- vn /lib/libelf.so.2
+72589        0x808200000        0x808400000 rw-    7    7   1   0 ---- df
+72589     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+72589     0x7ffffffdf000     0x7ffffffff000 rw-    3    3   1   0 ---D df
+72589     0x7ffffffff000     0x800000000000 r-x    1    1  24   0 ---- ph
