@@ -1,0 +1,73 @@
+gcc8 sqlite3.c -lpthread -ldl
+
+/usr/local/libexec/gcc8/gcc/x86_64-portbld-freebsd11.2/8.0.1/cc1 -quiet sqlite3.c -quiet -dumpbase sqlite3.c -mtune=generic -march=x86-64 ...
+
+---
+
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+89240           0x400000           0x51c000 r-x  284  296   2   1 CN-- vn /usr/local/bin/gcc8
+89240           0x71c000           0x71f000 rw-    3    0   1   0 C--- vn /usr/local/bin/gcc8
+89240           0x71f000           0x722000 rw-    3    3   1   0 ---- df
+89240        0x80071c000        0x80073c000 r-x   32   32  22   0 CN-- vn /libexec/ld-elf.so.1
+89240        0x80073c000        0x800760000 rw-   25   25   1   0 ---- df
+89240        0x80093b000        0x80093d000 rw-    2    2   1   0 ---- df
+89240        0x80093d000        0x80096a000 r-x   45   50   6   3 CN-- vn /lib/libm.so.5
+89240        0x80096a000        0x800b69000 ---    0    0   0   0 CN-- --
+89240        0x800b69000        0x800b6a000 rw-    1    0   1   0 C--- vn /lib/libm.so.5
+89240        0x800b6a000        0x800d01000 r-x  377  405  43  21 CN-- vn /lib/libc.so.7
+89240        0x800d01000        0x800f00000 ---    0    0   0   0 CN-- --
+89240        0x800f00000        0x800f0d000 rw-   13    0   1   0 C--- vn /lib/libc.so.7
+89240        0x800f0d000        0x800f26000 rw-    7   59   2   0 ---- df
+89240        0x801000000        0x801400000 rw-   52   59   2   0 ---- df
+89240     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+89240     0x7ffffffdf000     0x7ffffffff000 rw-    3    3   1   0 ---D df
+89240     0x7ffffffff000     0x800000000000 r-x    1    1  25   0 ---- ph
+
+---
+
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+89225           0x400000          0x1e6b000 r-x 6763 6792   2   1 CN-- vn /usr/local/libexec/gcc8/gcc/x86_64-portbld-freebsd11.2/8.0.1/cc1
+89225          0x206a000          0x2077000 rw-   13    0   1   0 C--- vn /usr/local/libexec/gcc8/gcc/x86_64-portbld-freebsd11.2/8.0.1/cc1
+89225          0x2077000          0x21d6000 rw-  258  258   1   0 ---- df
+89225        0x80206a000        0x80208a000 r-x   32   32  22   0 CN-- vn /libexec/ld-elf.so.1
+89225        0x80208a000        0x802289000 rw-  450  450   1   0 ---- df
+89225        0x802289000        0x80228b000 rw-    2    2   1   0 ---- df
+89225        0x80228b000        0x8022a2000 r-x   23   24   2   1 CN-- vn /usr/local/lib/libmpc.so.3.1.0
+89225        0x8022a2000        0x8024a1000 ---    0    0   0   0 CN-- --
+89225        0x8024a1000        0x8024a2000 rw-    1    0   1   0 C--- vn /usr/local/lib/libmpc.so.3.1.0
+89225        0x8024a2000        0x802505000 r-x   99  112   2   1 CN-- vn /usr/local/lib/libmpfr.so.4.1.6
+89225        0x802505000        0x802705000 ---    0    0   0   0 CN-- --
+89225        0x802705000        0x802707000 rw-    2    0   1   0 C--- vn /usr/local/lib/libmpfr.so.4.1.6
+89225        0x802707000        0x802786000 r-x  127  144   2   1 CN-- vn /usr/local/lib/libgmp.so.10.3.2
+89225        0x802786000        0x802985000 ---    0    0   0   0 CN-- --
+89225        0x802985000        0x802987000 rw-    2    0   1   0 C--- vn /usr/local/lib/libgmp.so.10.3.2
+89225        0x802987000        0x80299f000 r-x   24   25   6   3 CN-- vn /lib/libz.so.6
+89225        0x80299f000        0x802b9e000 ---    0    0   0   0 CN-- --
+89225        0x802b9e000        0x802b9f000 rw-    1    0   1   0 C--- vn /lib/libz.so.6
+89225        0x802b9f000        0x802bcc000 r-x   45   50   6   3 CN-- vn /lib/libm.so.5
+89225        0x802bcc000        0x802dcb000 ---    0    0   0   0 CN-- --
+89225        0x802dcb000        0x802dcc000 rw-    1    0   1   0 C--- vn /lib/libm.so.5
+89225        0x802dcc000        0x802f63000 r-x  377  405  43  21 CN-- vn /lib/libc.so.7
+89225        0x802f63000        0x803162000 ---    0    0   0   0 CN-- --
+89225        0x803162000        0x80316f000 rw-   13    0   1   0 C--- vn /lib/libc.so.7
+89225        0x80316f000        0x803188000 rw-    7 23734  10   0 ---- df
+89225        0x803188000        0x803200000 rw-  120  120   1   0 ---- df
+89225        0x803200000        0x803800000 rw-  946 23734  10   0 ---- df
+89225        0x803800000        0x804000000 rw- 2048 2048   1   0 ---- df
+89225        0x804000000        0x804839000 rw- 2104 23734  10   0 ---- df
+89225        0x804839000        0x804939000 rw-  256  256   1   0 ---- df
+89225        0x804939000        0x8049d1000 rw-  152 23734  10   0 ---- df
+89225        0x8049d1000        0x804b39000 rw-  360  360   1   0 ---- df
+89225        0x804b39000        0x804e97000 rw-  862 23734  10   0 ---- df
+89225        0x804e97000        0x805239000 rw-  930  930   1   0 ---- df
+89225        0x805239000        0x805639000 rw- 1024 23734  10   0 ---- df
+89225        0x805639000        0x80565d000 rw-   36   36   1   0 ---- df
+89225        0x805800000        0x805c00000 rw- 1023 23734  10   0 ---- df
+89225        0x805c00000        0x805ecb000 rw-  715  715   1   0 ---- df
+89225        0x806000000        0x806601000 rw- 1537 23734  10   0 ---- df
+89225        0x806601000        0x806801000 rw-  512  512   1   0 ---- df
+89225        0x806a00000        0x80a0ad000 rw- 13940 23734  10   0 --s- df
+89225        0x80a200000        0x80ac00000 rw- 2139 23734  10   0 ---- df
+89225     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+89225     0x7ffffffdf000     0x7ffffffff000 rw-    9    9   1   0 ---D df
+89225     0x7ffffffff000     0x800000000000 r-x    1    1  25   0 ---- ph
