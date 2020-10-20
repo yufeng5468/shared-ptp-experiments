@@ -1,0 +1,488 @@
+  PID              START                END PRT  RES PRES REF SHD FLAG TP PATH
+20271           0x400000           0xbb7000 r-x 1975 2120   2   1 CN-- vn /usr/local/bin/qemu-system-aarch64
+20271           0xdb6000           0xe3e000 rw-  136    0   1   0 C--- vn /usr/local/bin/qemu-system-aarch64
+20271           0xe3e000          0x1276000 rw- 1080 205880   3   0 ---- df
+20271          0x1276000         0x33276000 rwx 204800 205880   3   0 --s- df
+20271         0x33276000         0x33277000 ---    0 205880   3   0 ---- df
+20271        0x800db6000        0x800dd6000 r-x   29   29  26   0 CN-- vn /libexec/ld-elf.so.1
+20271        0x800dd6000        0x800ddf000 rw-    9    9   1   0 ---- df
+20271        0x800ddf000        0x800e59000 rw-  122  380   6   0 ---- df
+20271        0x800e59000        0x800e5a000 ---    0  380   6   0 ---- df
+20271        0x800e5a000        0x800f5a000 rw-  256  380   6   0 ---- df
+20271        0x800f5a000        0x800f5b000 rw-    1    1   1   0 ---- df
+20271        0x800f5b000        0x800f5c000 ---    0  380   6   0 ---- df
+20271        0x800f5c000        0x800f5d000 rw-    1    1   1   0 ---- df
+20271        0x800f5d000        0x800f5e000 ---    0  380   6   0 ---- df
+20271        0x800f5e000        0x800f60000 rw-    2  380   6   0 ---- df
+20271        0x800fd5000        0x800fd7000 rw-    2    2   1   0 ---- df
+20271        0x800fd7000        0x800fef000 r-x   24   25  10   5 CN-- vn /lib/libz.so.6
+20271        0x800fef000        0x8011ee000 ---    0    0   0   0 CN-- --
+20271        0x8011ee000        0x8011ef000 rw-    1    0   1   0 C--- vn /lib/libz.so.6
+20271        0x8011ef000        0x801269000 r-x  122  136   2   1 CN-- vn /usr/local/lib/libcurl.so.4.5.0
+20271        0x801269000        0x801469000 ---    0    0   0   0 CN-- --
+20271        0x801469000        0x80146c000 rw-    3    0   1   0 C--- vn /usr/local/lib/libcurl.so.4.5.0
+20271        0x80146c000        0x80147f000 r-x   19   21   2   1 CN-- vn /usr/lib/libbz2.so.4
+20271        0x80147f000        0x80167e000 ---    0    0   0   0 CN-- --
+20271        0x80167e000        0x801680000 rw-    2    0   1   0 C--- vn /usr/lib/libbz2.so.4
+20271        0x801680000        0x801743000 r-x  195  208   2   1 CN-- vn /usr/local/lib/libpixman-1.so.0.34.0
+20271        0x801743000        0x801942000 ---    0    0   0   0 CN-- --
+20271        0x801942000        0x80194a000 rw-    8    0   1   0 C--- vn /usr/local/lib/libpixman-1.so.0.34.0
+20271        0x80194a000        0x80195b000 r-x   17   19  39  19 CN-- vn /lib/libutil.so.9
+20271        0x80195b000        0x801b5b000 ---    0    0   0   0 CN-- --
+20271        0x801b5b000        0x801b5c000 rw-    1    0   1   0 C--- vn /lib/libutil.so.9
+20271        0x801b5c000        0x801b5e000 rw-    0    0   0   0 ---- --
+20271        0x801b5e000        0x801b98000 r-x   58   59   2   1 CN-- vn /usr/local/lib/libpng16.so.16.34.0
+20271        0x801b98000        0x801d98000 ---    0    0   0   0 CN-- --
+20271        0x801d98000        0x801d99000 rw-    1    0   1   0 C--- vn /usr/local/lib/libpng16.so.16.34.0
+20271        0x801d99000        0x801df3000 r-x   58   61   2   1 CN-- vn /lib/libpcap.so.8
+20271        0x801df3000        0x801ff3000 ---    0    0   0   0 CN-- --
+20271        0x801ff3000        0x801ff5000 rw-    2    0   1   0 C--- vn /lib/libpcap.so.8
+20271        0x801ff5000        0x802056000 r-x   97  112   2   1 CN-- vn /usr/local/lib/libSDL-1.2.so.0.11.4
+20271        0x802056000        0x802256000 ---    0    0   0   0 CN-- --
+20271        0x802256000        0x802258000 rw-    2    0   1   0 C--- vn /usr/local/lib/libSDL-1.2.so.0.11.4
+20271        0x802258000        0x802261000 rw-    0    0   0   0 ---- --
+20271        0x802261000        0x80239b000 r-x  314  328   2   1 CN-- vn /usr/local/lib/libX11.so.6.3.0
+20271        0x80239b000        0x80259a000 ---    0    0   0   0 CN-- --
+20271        0x80259a000        0x8025a0000 rw-    6    0   1   0 C--- vn /usr/local/lib/libX11.so.6.3.0
+20271        0x8025a0000        0x802639000 r-x  153  168   2   1 CN-- vn /usr/local/lib/libvte.so.9.2800.2
+20271        0x802639000        0x802839000 ---    0    0   0   0 CN-- --
+20271        0x802839000        0x80283e000 rw-    5    0   1   0 C--- vn /usr/local/lib/libvte.so.9.2800.2
+20271        0x80283e000        0x80283f000 ---    0  256   2   0 ---- df
+20271        0x80283f000        0x80293f000 rw-  256  256   2   0 ---- df
+20271        0x802a00000        0x802e3d000 r-x 1085 1112   2   1 CN-- vn /usr/local/lib/libgtk-x11-2.0.so.0.2400.32
+20271        0x802e3d000        0x80303c000 ---    0    0   0   0 CN-- --
+20271        0x80303c000        0x803049000 rw-   13    0   1   0 C--- vn /usr/local/lib/libgtk-x11-2.0.so.0.2400.32
+20271        0x803049000        0x80304b000 rw-    0    0   0   0 ---- --
+20271        0x80304b000        0x8030fe000 r-x  179  192   2   1 CN-- vn /usr/local/lib/libgdk-x11-2.0.so.0.2400.32
+20271        0x8030fe000        0x8032fd000 ---    0    0   0   0 CN-- --
+20271        0x8032fd000        0x803302000 rw-    5    0   1   0 C--- vn /usr/local/lib/libgdk-x11-2.0.so.0.2400.32
+20271        0x803302000        0x80330e000 r-x   12   14   2   1 CN-- vn /usr/local/lib/libpangocairo-1.0.so.0.4200.0
+20271        0x80330e000        0x80350e000 ---    0    0   0   0 CN-- --
+20271        0x80350e000        0x80350f000 rw-    1    0   1   0 C--- vn /usr/local/lib/libpangocairo-1.0.so.0.4200.0
+20271        0x80350f000        0x803536000 r-x   39   42   2   1 CN-- vn /usr/local/lib/libatk-1.0.so.0.22409.1
+20271        0x803536000        0x803735000 ---    0    0   0   0 CN-- --
+20271        0x803735000        0x803738000 rw-    3    0   1   0 C--- vn /usr/local/lib/libatk-1.0.so.0.22409.1
+20271        0x803738000        0x80375a000 r-x   34   36   2   1 CN-- vn /usr/local/lib/libgdk_pixbuf-2.0.so.0.3611.0
+20271        0x80375a000        0x80395a000 ---    0    0   0   0 CN-- --
+20271        0x80395a000        0x80395b000 rw-    1    0   1   0 C--- vn /usr/local/lib/libgdk_pixbuf-2.0.so.0.3611.0
+20271        0x80395b000        0x80396f000 r-x   20   22   2   1 CN-- vn /usr/local/lib/libpangoft2-1.0.so.0.4200.0
+20271        0x80396f000        0x803b6f000 ---    0    0   0   0 CN-- --
+20271        0x803b6f000        0x803b70000 rw-    1    0   1   0 C--- vn /usr/local/lib/libpangoft2-1.0.so.0.4200.0
+20271        0x803b70000        0x803bb9000 r-x   73   77   2   1 CN-- vn /usr/local/lib/libpango-1.0.so.0.4200.0
+20271        0x803bb9000        0x803db9000 ---    0    0   0   0 CN-- --
+20271        0x803db9000        0x803dbc000 rw-    3    0   1   0 C--- vn /usr/local/lib/libpango-1.0.so.0.4200.0
+20271        0x803dbc000        0x803dfd000 r-x   65   72   2   1 CN-- vn /usr/local/lib/libfontconfig.so.1.9.2
+20271        0x803dfd000        0x803ffd000 ---    0    0   0   0 CN-- --
+20271        0x803ffd000        0x804003000 rw-    6    0   1   0 C--- vn /usr/local/lib/libfontconfig.so.1.9.2
+20271        0x804003000        0x8040af000 r-x  172  192   2   1 CN-- vn /usr/local/lib/libfreetype.so.6.14.0
+20271        0x8040af000        0x8042af000 ---    0    0   0   0 CN-- --
+20271        0x8042af000        0x8042b5000 rw-    6    0   1   0 C--- vn /usr/local/lib/libfreetype.so.6.14.0
+20271        0x8042b5000        0x804437000 r-x  386  408   2   1 CN-- vn /usr/local/lib/libgio-2.0.so.0.5000.3
+20271        0x804437000        0x804637000 ---    0    0   0   0 CN-- --
+20271        0x804637000        0x80463e000 rw-    7    0   1   0 C--- vn /usr/local/lib/libgio-2.0.so.0.5000.3
+20271        0x80463e000        0x804640000 rw-    0    0   0   0 ---- --
+20271        0x804640000        0x804688000 r-x   72   73   2   1 CN-- vn /usr/local/lib/libgobject-2.0.so.0.5000.3
+20271        0x804688000        0x804887000 ---    0    0   0   0 CN-- --
+20271        0x804887000        0x804889000 rw-    2    0   1   0 C--- vn /usr/local/lib/libgobject-2.0.so.0.5000.3
+20271        0x804889000        0x80488a000 rw-    1    1   1   0 ---- df
+20271        0x80488a000        0x80499b000 r-x  273  288   2   1 CN-- vn /usr/local/lib/libglib-2.0.so.0.5000.3
+20271        0x80499b000        0x804b9b000 ---    0    0   0   0 CN-- --
+20271        0x804b9b000        0x804b9d000 rw-    2    0   1   0 C--- vn /usr/local/lib/libglib-2.0.so.0.5000.3
+20271        0x804b9d000        0x804ba7000 r-x   10   14   2   1 CN-- vn /usr/local/lib/libintl.so.8.1.5
+20271        0x804ba7000        0x804da7000 ---    0    0   0   0 CN-- --
+20271        0x804da7000        0x804da8000 rw-    1    0   1   0 C--- vn /usr/local/lib/libintl.so.8.1.5
+20271        0x804da8000        0x804ebc000 r-x  276  296   2   1 CN-- vn /usr/local/lib/libcairo.so.2.11400.8
+20271        0x804ebc000        0x8050bb000 ---    0    0   0   0 CN-- --
+20271        0x8050bb000        0x8050c0000 rw-    5    0   1   0 C--- vn /usr/local/lib/libcairo.so.2.11400.8
+20271        0x8050c0000        0x8050c1000 rw-    0    0   0   0 ---- --
+20271        0x8050c1000        0x8050dc000 r-x   27   30  14   7 CN-- vn /lib/libthr.so.3
+20271        0x8050dc000        0x8052dc000 ---    0    0   0   0 CN-- --
+20271        0x8052dc000        0x8052dd000 rw-    1    0   1   0 C--- vn /lib/libthr.so.3
+20271        0x8052dd000        0x8052e9000 rw-   12   12   1   0 ---- df
+20271        0x8052e9000        0x8052f9000 r-x   16   18   2   1 CN-- vn /usr/local/lib/libXext.so.6.4.0
+20271        0x8052f9000        0x8054f9000 ---    0    0   0   0 CN-- --
+20271        0x8054f9000        0x8054fa000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXext.so.6.4.0
+20271        0x8054fa000        0x805531000 r-x   55   57   2   1 CN-- vn /usr/local/lib/libnettle.so.6.4
+20271        0x805531000        0x805730000 ---    0    0   0   0 CN-- --
+20271        0x805730000        0x805732000 rw-    2    0   1   0 C--- vn /usr/local/lib/libnettle.so.6.4
+20271        0x805732000        0x805899000 r-x  359  384   2   1 CN-- vn /usr/local/lib/libgnutls.so.30.14.10
+20271        0x805899000        0x805a98000 ---    0    0   0   0 CN-- --
+20271        0x805a98000        0x805aa6000 rw-   14    0   1   0 C--- vn /usr/local/lib/libgnutls.so.30.14.10
+20271        0x805aa6000        0x805aa7000 rw-    1    1   1   0 ---- df
+20271        0x805aa7000        0x805abc000 r-x   21   23   2   1 CN-- vn /usr/lib/libusb.so.3
+20271        0x805abc000        0x805cbc000 ---    0    0   0   0 CN-- --
+20271        0x805cbc000        0x805cbd000 rw-    1    0   1   0 C--- vn /usr/lib/libusb.so.3
+20271        0x805cbd000        0x805cea000 r-x   45   50   4   2 CN-- vn /lib/libm.so.5
+20271        0x805cea000        0x805ee9000 ---    0    0   0   0 CN-- --
+20271        0x805ee9000        0x805eea000 rw-    1    0   1   0 C--- vn /lib/libm.so.5
+20271        0x805eea000        0x805eeb000 r-x    1    1   2   1 CN-- vn /usr/local/lib/libgthread-2.0.so.0.5000.3
+20271        0x805eeb000        0x8060ea000 ---    0    0   0   0 CN-- --
+20271        0x8060ea000        0x8060eb000 rw-    1    0   1   0 C--- vn /usr/local/lib/libgthread-2.0.so.0.5000.3
+20271        0x8060eb000        0x8060f0000 r-x    5    6   2   1 CN-- vn /usr/lib/librt.so.1
+20271        0x8060f0000        0x8062f0000 ---    0    0   0   0 CN-- --
+20271        0x8062f0000        0x8062f1000 rw-    1    0   1   0 C--- vn /usr/lib/librt.so.1
+20271        0x8062f1000        0x8063b7000 r-x  129  147   2   1 CN-- vn /usr/lib/libc++.so.1
+20271        0x8063b7000        0x8065b6000 ---    0    0   0   0 CN-- --
+20271        0x8065b6000        0x8065bc000 rw-    6    0   1   0 C--- vn /usr/lib/libc++.so.1
+20271        0x8065bc000        0x8065bf000 rw-    3    3   1   0 ---- df
+20271        0x8065bf000        0x8065d9000 r-x   26   27   2   1 CN-- vn /lib/libcxxrt.so.1
+20271        0x8065d9000        0x8067d8000 ---    0    0   0   0 CN-- --
+20271        0x8067d8000        0x8067da000 rw-    2    0   1   0 C--- vn /lib/libcxxrt.so.1
+20271        0x8067da000        0x8067de000 rw-    0    0   0   0 ---- --
+20271        0x8067de000        0x8067ec000 r-x   14   15   2   1 CN-- vn /lib/libgcc_s.so.1
+20271        0x8067ec000        0x8069ec000 ---    0    0   0   0 CN-- --
+20271        0x8069ec000        0x8069ed000 rw-    1    0   1   0 C--- vn /lib/libgcc_s.so.1
+20271        0x8069ed000        0x806b84000 r-x  323  351  51  25 CN-- vn /lib/libc.so.7
+20271        0x806b84000        0x806d83000 ---    0    0   0   0 CN-- --
+20271        0x806d83000        0x806d90000 rw-   13    0   1   0 C--- vn /lib/libc.so.7
+20271        0x806d90000        0x806da9000 rw-   25   25   1   0 ---- df
+20271        0x806da9000        0x806dce000 r-x   37   40   2   1 CN-- vn /usr/local/lib/libnghttp2.so.14.16.1
+20271        0x806dce000        0x806fce000 ---    0    0   0   0 CN-- --
+20271        0x806fce000        0x806fd1000 rw-    3    0   1   0 C--- vn /usr/local/lib/libnghttp2.so.14.16.1
+20271        0x806fd1000        0x80703a000 r-x  105  128   2   1 CN-- vn /usr/lib/libssl.so.8
+20271        0x80703a000        0x807239000 ---    0    0   0   0 CN-- --
+20271        0x807239000        0x807244000 rw-   11    0   1   0 C--- vn /usr/lib/libssl.so.8
+20271        0x807244000        0x80724a000 r-x    6    7   2   1 CN-- vn /usr/lib/libheimntlm.so.11
+20271        0x80724a000        0x80744a000 ---    0    0   0   0 CN-- --
+20271        0x80744a000        0x80744b000 rw-    1    0   1   0 C--- vn /usr/lib/libheimntlm.so.11
+20271        0x80744b000        0x807495000 r-x   54   57  12   6 CN-- vn /usr/lib/libhx509.so.11
+20271        0x807495000        0x807694000 ---    0    0   0   0 CN-- --
+20271        0x807694000        0x807698000 rw-    4    0   1   0 C--- vn /usr/lib/libhx509.so.11
+20271        0x807698000        0x80769a000 r-x    2    2  12   6 CN-- vn /usr/lib/libcom_err.so.5
+20271        0x80769a000        0x807899000 ---    0    0   0   0 CN-- --
+20271        0x807899000        0x80789a000 rw-    1    0   1   0 C--- vn /usr/lib/libcom_err.so.5
+20271        0x80789a000        0x80789b000 ---    0  256   2   0 ---- df
+20271        0x80789b000        0x80799b000 rw-  256  256   2   0 ---- df
+20271        0x807a00000        0x807c44000 r-x  452  504  14   7 CN-- vn /lib/libcrypto.so.8
+20271        0x807c44000        0x807e43000 ---    0    0   0   0 CN-- --
+20271        0x807e43000        0x807e6d000 rw-   42    0   1   0 C--- vn /lib/libcrypto.so.8
+20271        0x807e6d000        0x807e6f000 rw-    2    2   1   0 ---- df
+20271        0x807e6f000        0x807f0e000 r-x   86  103  12   6 CN-- vn /usr/lib/libasn1.so.11
+20271        0x807f0e000        0x80810d000 ---    0    0   0   0 CN-- --
+20271        0x80810d000        0x808111000 rw-    4    0   1   0 C--- vn /usr/lib/libasn1.so.11
+20271        0x808111000        0x808139000 r-x   40   40  12   6 CN-- vn /usr/lib/libwind.so.11
+20271        0x808139000        0x808338000 ---    0    0   0   0 CN-- --
+20271        0x808338000        0x808339000 rw-    1    0   1   0 C--- vn /usr/lib/libwind.so.11
+20271        0x808339000        0x80833c000 r-x    3    4  12   6 CN-- vn /usr/lib/libheimbase.so.11
+20271        0x80833c000        0x80853c000 ---    0    0   0   0 CN-- --
+20271        0x80853c000        0x80853d000 rw-    1    0   1   0 C--- vn /usr/lib/libheimbase.so.11
+20271        0x80853d000        0x80854f000 r-x   18   20  12   6 CN-- vn /usr/lib/libroken.so.11
+20271        0x80854f000        0x80874f000 ---    0    0   0   0 CN-- --
+20271        0x80874f000        0x808750000 rw-    1    0   1   0 C--- vn /usr/lib/libroken.so.11
+20271        0x808750000        0x80875d000 r-x   13   15  20  10 CN-- vn /lib/libcrypt.so.5
+20271        0x80875d000        0x80895d000 ---    0    0   0   0 CN-- --
+20271        0x80895d000        0x80895e000 rw-    1    0   1   0 C--- vn /lib/libcrypt.so.5
+20271        0x80895e000        0x80896f000 rw-    0    0   0   0 ---- --
+20271        0x80896f000        0x8089e8000 r-x  105  120  12   6 CN-- vn /usr/lib/libkrb5.so.11
+20271        0x8089e8000        0x808be7000 ---    0    0   0   0 CN-- --
+20271        0x808be7000        0x808bed000 rw-    6    0   1   0 C--- vn /usr/lib/libkrb5.so.11
+20271        0x808bed000        0x808bf6000 r-x    9   10  10   5 CN-- vn /usr/lib/libgssapi.so.10
+20271        0x808bf6000        0x808df6000 ---    0    0   0   0 CN-- --
+20271        0x808df6000        0x808df7000 rw-    1    0   1   0 C--- vn /usr/lib/libgssapi.so.10
+20271        0x808df7000        0x808e14000 r-x   18   21  10   5 CN-- vn /usr/lib/libgssapi_krb5.so.10
+20271        0x808e14000        0x809014000 ---    0    0   0   0 CN-- --
+20271        0x809014000        0x809016000 rw-    2    0   1   0 C--- vn /usr/lib/libgssapi_krb5.so.10
+20271        0x809016000        0x80901e000 r-x    8   10   2   1 CN-- vn /usr/lib/libvgl.so.6
+20271        0x80901e000        0x80921e000 ---    0    0   0   0 CN-- --
+20271        0x80921e000        0x80921f000 rw-    1    0   1   0 C--- vn /usr/lib/libvgl.so.6
+20271        0x80921f000        0x809220000 rw-    0    0   0   0 ---- --
+20271        0x809220000        0x809236000 r-x   22   24   2   1 CN-- vn /usr/local/lib/libaa.so.1.0.4
+20271        0x809236000        0x809435000 ---    0    0   0   0 CN-- --
+20271        0x809435000        0x809438000 rw-    3    0   1   0 C--- vn /usr/local/lib/libaa.so.1.0.4
+20271        0x809438000        0x80943c000 r-x    4    4   2   1 CN-- vn /usr/lib/libusbhid.so.4
+20271        0x80943c000        0x80963b000 ---    0    0   0   0 CN-- --
+20271        0x80963b000        0x80963c000 rw-    1    0   1   0 C--- vn /usr/lib/libusbhid.so.4
+20271        0x80963c000        0x809662000 r-x   38   39   2   1 CN-- vn /usr/local/lib/libxcb.so.1.1.0
+20271        0x809662000        0x809861000 ---    0    0   0   0 CN-- --
+20271        0x809861000        0x809862000 rw-    1    0   1   0 C--- vn /usr/local/lib/libxcb.so.1.1.0
+20271        0x809862000        0x8098b2000 r-x   80   85   4   2 CN-- vn /lib/libncurses.so.8
+20271        0x8098b2000        0x809ab2000 ---    0    0   0   0 CN-- --
+20271        0x809ab2000        0x809ab7000 rw-    5    0   1   0 C--- vn /lib/libncurses.so.8
+20271        0x809ab7000        0x809ac0000 r-x    9   11   2   1 CN-- vn /usr/local/lib/libXrender.so.1.3.0
+20271        0x809ac0000        0x809cbf000 ---    0    0   0   0 CN-- --
+20271        0x809cbf000        0x809cc0000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXrender.so.1.3.0
+20271        0x809cc0000        0x809cc2000 r-x    2    2   2   1 CN-- vn /usr/local/lib/libXinerama.so.1.0.0
+20271        0x809cc2000        0x809ec1000 ---    0    0   0   0 CN-- --
+20271        0x809ec1000        0x809ec2000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXinerama.so.1.0.0
+20271        0x809ec2000        0x809ed0000 r-x   14   15   2   1 CN-- vn /usr/local/lib/libXi.so.6.1.0
+20271        0x809ed0000        0x80a0cf000 ---    0    0   0   0 CN-- --
+20271        0x80a0cf000        0x80a0d0000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXi.so.6.1.0
+20271        0x80a0d0000        0x80a0d9000 r-x    9   12   2   1 CN-- vn /usr/local/lib/libXrandr.so.2.2.0
+20271        0x80a0d9000        0x80a2d9000 ---    0    0   0   0 CN-- --
+20271        0x80a2d9000        0x80a2da000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXrandr.so.2.2.0
+20271        0x80a2da000        0x80a2e5000 r-x   11   12   2   1 CN-- vn /usr/local/lib/libXcursor.so.1.0.2
+20271        0x80a2e5000        0x80a4e4000 ---    0    0   0   0 CN-- --
+20271        0x80a4e4000        0x80a4e5000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXcursor.so.1.0.2
+20271        0x80a4e5000        0x80a4e8000 r-x    3    3   2   1 CN-- vn /usr/local/lib/libgmodule-2.0.so.0.5000.3
+20271        0x80a4e8000        0x80a6e7000 ---    0    0   0   0 CN-- --
+20271        0x80a6e7000        0x80a6e8000 rw-    1    0   1   0 C--- vn /usr/local/lib/libgmodule-2.0.so.0.5000.3
+20271        0x80a6e8000        0x80a6ea000 r-x    2    2   2   1 CN-- vn /usr/local/lib/libXcomposite.so.1.0.0
+20271        0x80a6ea000        0x80a8e9000 ---    0    0   0   0 CN-- --
+20271        0x80a8e9000        0x80a8ea000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXcomposite.so.1.0.0
+20271        0x80a8ea000        0x80a8ec000 r-x    2    2   2   1 CN-- vn /usr/local/lib/libXdamage.so.1.1.0
+20271        0x80a8ec000        0x80aaeb000 ---    0    0   0   0 CN-- --
+20271        0x80aaeb000        0x80aaec000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXdamage.so.1.1.0
+20271        0x80aaec000        0x80aaf1000 r-x    5    5   2   1 CN-- vn /usr/local/lib/libXfixes.so.3.1.0
+20271        0x80aaf1000        0x80acf0000 ---    0    0   0   0 CN-- --
+20271        0x80acf0000        0x80acf1000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXfixes.so.3.1.0
+20271        0x80acf1000        0x80ad07000 r-x   22   23   2   1 CN-- vn /usr/local/lib/libfribidi.so.0.3.6
+20271        0x80ad07000        0x80af06000 ---    0    0   0   0 CN-- --
+20271        0x80af06000        0x80af07000 rw-    1    0   1   0 C--- vn /usr/local/lib/libfribidi.so.0.3.6
+20271        0x80af07000        0x80af99000 r-x  146  160   2   1 CN-- vn /usr/local/lib/libharfbuzz.so.0.10706.0
+20271        0x80af99000        0x80b199000 ---    0    0   0   0 CN-- --
+20271        0x80b199000        0x80b19b000 rw-    2    0   1   0 C--- vn /usr/local/lib/libharfbuzz.so.0.10706.0
+20271        0x80b19b000        0x80b1c3000 r-x   40   43   2   1 CN-- vn /usr/local/lib/libexpat.so.1.6.7
+20271        0x80b1c3000        0x80b3c3000 ---    0    0   0   0 CN-- --
+20271        0x80b3c3000        0x80b3c5000 rw-    2    0   1   0 C--- vn /usr/local/lib/libexpat.so.1.6.7
+20271        0x80b3c5000        0x80b3cc000 r-x    7    7   2   1 CN-- vn /usr/local/lib/libffi.so.6.0.4
+20271        0x80b3cc000        0x80b5cb000 ---    0    0   0   0 CN-- --
+20271        0x80b5cb000        0x80b5cc000 rw-    1    0   1   0 C--- vn /usr/local/lib/libffi.so.6.0.4
+20271        0x80b5cc000        0x80b6c5000 r-x  249  272   2   1 CN-- vn /usr/local/lib/libiconv.so.2.5.1
+20271        0x80b6c5000        0x80b8c5000 ---    0    0   0   0 CN-- --
+20271        0x80b8c5000        0x80b8c7000 rw-    2    0   1   0 C--- vn /usr/local/lib/libiconv.so.2.5.1
+20271        0x80b8c7000        0x80b949000 r-x  130  136   2   1 CN-- vn /usr/local/lib/libpcre.so.1.2.8
+20271        0x80b949000        0x80bb49000 ---    0    0   0   0 CN-- --
+20271        0x80bb49000        0x80bb4a000 rw-    1    0   1   0 C--- vn /usr/local/lib/libpcre.so.1.2.8
+20271        0x80bb4a000        0x80bb74000 r-x   42   44   2   1 CN-- vn /usr/local/lib/libEGL.so.1.0.0
+20271        0x80bb74000        0x80bd73000 ---    0    0   0   0 CN-- --
+20271        0x80bd73000        0x80bd75000 rw-    2    0   1   0 C--- vn /usr/local/lib/libEGL.so.1.0.0
+20271        0x80bd75000        0x80bd77000 r-x    2    2   2   1 CN-- vn /usr/local/lib/libxcb-shm.so.0.0.0
+20271        0x80bd77000        0x80bf76000 ---    0    0   0   0 CN-- --
+20271        0x80bf76000        0x80bf77000 rw-    1    0   1   0 C--- vn /usr/local/lib/libxcb-shm.so.0.0.0
+20271        0x80bf77000        0x80bf83000 r-x   12   14   2   1 CN-- vn /usr/local/lib/libxcb-render.so.0.0.0
+20271        0x80bf83000        0x80c183000 ---    0    0   0   0 CN-- --
+20271        0x80c183000        0x80c184000 rw-    1    0   1   0 C--- vn /usr/local/lib/libxcb-render.so.0.0.0
+20271        0x80c184000        0x80c20c000 r-x  136  152   2   1 CN-- vn /usr/local/lib/libGL.so.1.2.0
+20271        0x80c20c000        0x80c40b000 ---    0    0   0   0 CN-- --
+20271        0x80c40b000        0x80c40f000 rw-    4    0   1   0 C--- vn /usr/local/lib/libGL.so.1.2.0
+20271        0x80c40f000        0x80c51d000 r-x  270  296   2   1 CN-- vn /usr/local/lib/libp11-kit.so.0.3.0
+20271        0x80c51d000        0x80c71d000 ---    0    0   0   0 CN-- --
+20271        0x80c71d000        0x80c730000 rw-   19    0   1   0 C--- vn /usr/local/lib/libp11-kit.so.0.3.0
+20271        0x80c730000        0x80c8df000 r-x  431  448   2   1 CN-- vn /usr/local/lib/libunistring.so.2.1.0
+20271        0x80c8df000        0x80cadf000 ---    0    0   0   0 CN-- --
+20271        0x80cadf000        0x80cae3000 rw-    4    0   1   0 C--- vn /usr/local/lib/libunistring.so.2.1.0
+20271        0x80cae3000        0x80cae4000 r-x    1    1   2   1 CN-- vn /usr/lib/libdl.so.1
+20271        0x80cae4000        0x80cce3000 ---    0    0   0   0 CN-- --
+20271        0x80cce3000        0x80cce4000 rw-    1    0   1   0 C--- vn /usr/lib/libdl.so.1
+20271        0x80cce4000        0x80ccf8000 r-x   20   22   2   1 CN-- vn /usr/local/lib/libtasn1.so.6.5.5
+20271        0x80ccf8000        0x80cef8000 ---    0    0   0   0 CN-- --
+20271        0x80cef8000        0x80cef9000 rw-    1    0   1   0 C--- vn /usr/local/lib/libtasn1.so.6.5.5
+20271        0x80cef9000        0x80cf2d000 r-x   52   53   2   1 CN-- vn /usr/local/lib/libhogweed.so.4.4
+20271        0x80cf2d000        0x80d12c000 ---    0    0   0   0 CN-- --
+20271        0x80d12c000        0x80d12d000 rw-    1    0   1   0 C--- vn /usr/local/lib/libhogweed.so.4.4
+20271        0x80d12d000        0x80d1ac000 r-x  127  144   2   1 CN-- vn /usr/local/lib/libgmp.so.10.3.2
+20271        0x80d1ac000        0x80d3ab000 ---    0    0   0   0 CN-- --
+20271        0x80d3ab000        0x80d3ad000 rw-    2    0   1   0 C--- vn /usr/local/lib/libgmp.so.10.3.2
+20271        0x80d3ad000        0x80d3c9000 r-x   28   29   2   1 CN-- vn /usr/local/lib/libidn2.so.0.3.3
+20271        0x80d3c9000        0x80d5c9000 ---    0    0   0   0 CN-- --
+20271        0x80d5c9000        0x80d5ca000 rw-    1    0   1   0 C--- vn /usr/local/lib/libidn2.so.0.3.3
+20271        0x80d5ca000        0x80d5cc000 r-x    2    3  12   6 CN-- vn /usr/lib/libprivateheimipcc.so.11
+20271        0x80d5cc000        0x80d7cb000 ---    0    0   0   0 CN-- --
+20271        0x80d7cb000        0x80d7cc000 rw-    1    0   1   0 C--- vn /usr/lib/libprivateheimipcc.so.11
+20271        0x80d7cc000        0x80d7ce000 r-x    2    3   2   1 CN-- vn /usr/local/lib/libXau.so.6.0.0
+20271        0x80d7ce000        0x80d9ce000 ---    0    0   0   0 CN-- --
+20271        0x80d9ce000        0x80d9cf000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXau.so.6.0.0
+20271        0x80d9cf000        0x80d9d4000 r-x    5    5   2   1 CN-- vn /usr/local/lib/libXdmcp.so.6.0.0
+20271        0x80d9d4000        0x80dbd3000 ---    0    0   0   0 CN-- --
+20271        0x80dbd3000        0x80dbd4000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXdmcp.so.6.0.0
+20271        0x80dbd4000        0x80dc06000 r-x   50   53   2   1 CN-- vn /usr/local/lib/libgraphite2.so.3.0.1
+20271        0x80dc06000        0x80de06000 ---    0    0   0   0 CN-- --
+20271        0x80de06000        0x80de08000 rw-    2    0   1   0 C--- vn /usr/local/lib/libgraphite2.so.3.0.1
+20271        0x80de08000        0x80de0b000 r-x    3    4   2   1 CN-- vn /usr/local/lib/libxcb-dri2.so.0.0.0
+20271        0x80de0b000        0x80e00b000 ---    0    0   0   0 CN-- --
+20271        0x80e00b000        0x80e00c000 rw-    1    0   1   0 C--- vn /usr/local/lib/libxcb-dri2.so.0.0.0
+20271        0x80e00c000        0x80e00d000 r-x    1    1   2   1 CN-- vn /usr/local/lib/libX11-xcb.so.1.0.0
+20271        0x80e00d000        0x80e20c000 ---    0    0   0   0 CN-- --
+20271        0x80e20c000        0x80e20d000 rw-    1    0   1   0 C--- vn /usr/local/lib/libX11-xcb.so.1.0.0
+20271        0x80e20d000        0x80e20f000 r-x    2    2   2   1 CN-- vn /usr/local/lib/libxcb-dri3.so.0.0.0
+20271        0x80e20f000        0x80e40e000 ---    0    0   0   0 CN-- --
+20271        0x80e40e000        0x80e40f000 rw-    1    0   1   0 C--- vn /usr/local/lib/libxcb-dri3.so.0.0.0
+20271        0x80e40f000        0x80e415000 r-x    6    7   2   1 CN-- vn /usr/local/lib/libxcb-xfixes.so.0.0.0
+20271        0x80e415000        0x80e615000 ---    0    0   0   0 CN-- --
+20271        0x80e615000        0x80e616000 rw-    1    0   1   0 C--- vn /usr/local/lib/libxcb-xfixes.so.0.0.0
+20271        0x80e616000        0x80e618000 r-x    2    2   2   1 CN-- vn /usr/local/lib/libxcb-present.so.0.0.0
+20271        0x80e618000        0x80e817000 ---    0    0   0   0 CN-- --
+20271        0x80e817000        0x80e818000 rw-    1    0   1   0 C--- vn /usr/local/lib/libxcb-present.so.0.0.0
+20271        0x80e818000        0x80e81d000 r-x    5    6   2   1 CN-- vn /usr/local/lib/libxcb-sync.so.1.0.0
+20271        0x80e81d000        0x80ea1d000 ---    0    0   0   0 CN-- --
+20271        0x80ea1d000        0x80ea1e000 rw-    1    0   1   0 C--- vn /usr/local/lib/libxcb-sync.so.1.0.0
+20271        0x80ea1e000        0x80ea1f000 r-x    1    1   2   1 CN-- vn /usr/local/lib/libxshmfence.so.1.0.0
+20271        0x80ea1f000        0x80ec1e000 ---    0    0   0   0 CN-- --
+20271        0x80ec1e000        0x80ec1f000 rw-    1    0   1   0 C--- vn /usr/local/lib/libxshmfence.so.1.0.0
+20271        0x80ec1f000        0x80ec2c000 r-x   13   14   2   1 CN-- vn /usr/local/lib/libgbm.so.1.0.0
+20271        0x80ec2c000        0x80ee2b000 ---    0    0   0   0 CN-- --
+20271        0x80ee2b000        0x80ee2c000 rw-    1    0   1   0 C--- vn /usr/local/lib/libgbm.so.1.0.0
+20271        0x80ee2c000        0x80ee3e000 r-x   18   19   2   1 CN-- vn /usr/local/lib/libdrm.so.2.4.0
+20271        0x80ee3e000        0x80f03e000 ---    0    0   0   0 CN-- --
+20271        0x80f03e000        0x80f03f000 rw-    1    0   1   0 C--- vn /usr/local/lib/libdrm.so.2.4.0
+20271        0x80f03f000        0x80f090000 r-x   81   88   2   1 CN-- vn /usr/local/lib/libglapi.so.0.0.0
+20271        0x80f090000        0x80f290000 ---    0    0   0   0 CN-- --
+20271        0x80f290000        0x80f297000 rw-    7    0   1   0 C--- vn /usr/local/lib/libglapi.so.0.0.0
+20271        0x80f297000        0x80f298000 rw-    0    0   0   0 ---- --
+20271        0x80f298000        0x80f2b0000 r-x   24   26   2   1 CN-- vn /usr/local/lib/libxcb-glx.so.0.0.0
+20271        0x80f2b0000        0x80f4af000 ---    0    0   0   0 CN-- --
+20271        0x80f4af000        0x80f4b1000 rw-    2    0   1   0 C--- vn /usr/local/lib/libxcb-glx.so.0.0.0
+20271        0x80f4b1000        0x80f4b5000 r-x    2    2   2   1 CN-- vn /usr/local/lib/libXxf86vm.so.1.0.0
+20271        0x80f4b5000        0x80f6b4000 ---    0    0   0   0 CN-- --
+20271        0x80f6b4000        0x80f6b5000 rw-    1    0   1   0 C--- vn /usr/local/lib/libXxf86vm.so.1.0.0
+20271        0x80f6b5000        0x80f6b6000 ---    0  256   2   0 ---- df
+20271        0x80f6b6000        0x80f7b6000 rw-  256  256   2   0 ---- df
+20271        0x80f800000        0x81fe00000 rw- 67072 87036 123   0 --s- df
+20271        0x81fe00000        0x91fe00000 rw- 1048576 1048576   1   0 --s- df
+20271        0x91fe00000        0x91fe01000 ---    0 87036 123   0 ---- df
+20271        0x91fe01000        0x923e01000 rw- 16384 16384   1   0 --S- df
+20271        0x923e01000        0x923e02000 ---    0 87036 123   0 ---- df
+20271        0x923e02000        0x923e03000 ---    0  256   2   0 ---- df
+20271        0x923e03000        0x923f03000 rw-  256  256   2   0 ---- df
+20271        0x924000000        0x928000000 rw- 16384 87036 123   0 --S- df
+20271        0x928000000        0x92c000000 rw-  192  192   1   0 ---- df
+20271        0x92c000000        0x92c001000 ---    0 87036 123   0 ---- df
+20271        0x92c001000        0x92c002000 ---    0    1   2   0 ---- df
+20271        0x92c002000        0x92c102000 rw-    1    1   2   0 ---- df
+20271        0x92c200000        0x92ce00000 rw- 1575 87036 123   0 ---- df
+20271        0x92ce00000        0x92d000000 rw-    2    2   1   0 ---- df
+20271        0x92d000000        0x92d001000 ---    0 87036 123   0 ---- df
+20271        0x92d001000        0x92d002000 ---    0    1   2   0 ---- df
+20271        0x92d002000        0x92d102000 rw-    1    1   2   0 ---- df
+20271        0x92d200000        0x92fc00000 rw-  923 87036 123   0 ---- df
+20271        0x92fc00000        0x92fe00000 rw-   90   90   1   0 ---- df
+20271        0x92fe00000        0x930000000 rw-  268 87036 123   0 ---- df
+20271        0x930000000        0x930200000 rw-   76   76   1   0 ---- df
+20271        0x930200000        0x930600000 rw-   74 87036 123   0 ---- df
+20271        0x930600000        0x930601000 ---    0 87036 123   0 ---- df
+20271        0x930601000        0x930701000 rw-    1 87036 123   0 ---- df
+20271        0x930701000        0x930702000 ---    0 87036 123   0 ---- df
+20271        0x930702000        0x930802000 rw-    1 87036 123   0 ---- df
+20271        0x930802000        0x930803000 ---    0 87036 123   0 ---- df
+20271        0x930803000        0x930903000 rw-    1 87036 123   0 ---- df
+20271        0x930903000        0x930904000 ---    0 87036 123   0 ---- df
+20271        0x930904000        0x930a04000 rw-    1 87036 123   0 ---- df
+20271        0x930a04000        0x930a05000 ---    0 87036 123   0 ---- df
+20271        0x930a05000        0x930b05000 rw-    1 87036 123   0 ---- df
+20271        0x930b05000        0x930b06000 ---    0 87036 123   0 ---- df
+20271        0x930b06000        0x930c06000 rw-    1 87036 123   0 ---- df
+20271        0x930c06000        0x930c07000 ---    0 87036 123   0 ---- df
+20271        0x930c07000        0x930d07000 rw-    1 87036 123   0 ---- df
+20271        0x930d07000        0x930d08000 ---    0 87036 123   0 ---- df
+20271        0x930d08000        0x930e08000 rw-    1 87036 123   0 ---- df
+20271        0x930e08000        0x930e09000 ---    0    3   6   0 ---- df
+20271        0x930e09000        0x930f09000 rw-    1    3   6   0 ---- df
+20271        0x930f09000        0x930f0a000 ---    0    3   6   0 ---- df
+20271        0x930f0a000        0x93100a000 rw-    1    3   6   0 ---- df
+20271        0x93100a000        0x93100b000 ---    0    3   6   0 ---- df
+20271        0x93100b000        0x93110b000 rw-    1    3   6   0 ---- df
+20271        0x931200000        0x931400000 rw-   13   13   1   0 ---- df
+20271        0x931400000        0x931600000 rw-   40 87036 123   0 ---- df
+20271        0x931600000        0x931800000 rw-   20   20   1   0 ---- df
+20271        0x931800000        0x931c00000 rw-  133 87036 123   0 ---- df
+20271        0x931c00000        0x931c01000 ---    0 87036 123   0 ---- df
+20271        0x931c01000        0x931d01000 rw-    1 87036 123   0 ---- df
+20271        0x931d01000        0x931d02000 ---    0 87036 123   0 ---- df
+20271        0x931d02000        0x931e02000 rw-    1 87036 123   0 ---- df
+20271        0x931e02000        0x931e03000 ---    0 87036 123   0 ---- df
+20271        0x931e03000        0x931f03000 rw-    1 87036 123   0 ---- df
+20271        0x931f03000        0x931f04000 ---    0 87036 123   0 ---- df
+20271        0x931f04000        0x932004000 rw-    1 87036 123   0 ---- df
+20271        0x932004000        0x932005000 ---    0 87036 123   0 ---- df
+20271        0x932005000        0x932105000 rw-    1 87036 123   0 ---- df
+20271        0x932105000        0x932106000 ---    0 87036 123   0 ---- df
+20271        0x932106000        0x932206000 rw-    1 87036 123   0 ---- df
+20271        0x932206000        0x932207000 ---    0 87036 123   0 ---- df
+20271        0x932207000        0x932307000 rw-    1 87036 123   0 ---- df
+20271        0x932307000        0x932308000 ---    0 87036 123   0 ---- df
+20271        0x932308000        0x932408000 rw-    1 87036 123   0 ---- df
+20271        0x932408000        0x932409000 ---    0 87036 123   0 ---- df
+20271        0x932409000        0x932509000 rw-    1 87036 123   0 ---- df
+20271        0x932509000        0x93250a000 ---    0 87036 123   0 ---- df
+20271        0x93250a000        0x93260a000 rw-    1 87036 123   0 ---- df
+20271        0x93260a000        0x93260b000 ---    0 87036 123   0 ---- df
+20271        0x93260b000        0x93270b000 rw-    1 87036 123   0 ---- df
+20271        0x93270b000        0x93270c000 ---    0 87036 123   0 ---- df
+20271        0x93270c000        0x93280c000 rw-    1 87036 123   0 ---- df
+20271        0x93280c000        0x93280d000 ---    0 87036 123   0 ---- df
+20271        0x93280d000        0x93290d000 rw-    1 87036 123   0 ---- df
+20271        0x93290d000        0x93290e000 ---    0 87036 123   0 ---- df
+20271        0x93290e000        0x932a0e000 rw-    1 87036 123   0 ---- df
+20271        0x932a0e000        0x932a0f000 ---    0 87036 123   0 ---- df
+20271        0x932a0f000        0x932b0f000 rw-    1 87036 123   0 ---- df
+20271        0x932b0f000        0x932b10000 ---    0 87036 123   0 ---- df
+20271        0x932b10000        0x932c10000 rw-    1 87036 123   0 ---- df
+20271        0x932c10000        0x932c11000 ---    0 87036 123   0 ---- df
+20271        0x932c11000        0x932d11000 rw-    1 87036 123   0 ---- df
+20271        0x932d11000        0x932d12000 ---    0 87036 123   0 ---- df
+20271        0x932d12000        0x932e12000 rw-    1 87036 123   0 ---- df
+20271        0x932e12000        0x932e13000 ---    0 87036 123   0 ---- df
+20271        0x932e13000        0x932f13000 rw-    1 87036 123   0 ---- df
+20271        0x932f13000        0x932f14000 ---    0 87036 123   0 ---- df
+20271        0x932f14000        0x933014000 rw-    1 87036 123   0 ---- df
+20271        0x933014000        0x933015000 ---    0 87036 123   0 ---- df
+20271        0x933015000        0x933115000 rw-    1 87036 123   0 ---- df
+20271        0x933115000        0x933116000 ---    0 87036 123   0 ---- df
+20271        0x933116000        0x933216000 rw-    1 87036 123   0 ---- df
+20271        0x933216000        0x933217000 ---    0 87036 123   0 ---- df
+20271        0x933217000        0x933317000 rw-    1 87036 123   0 ---- df
+20271        0x933317000        0x933318000 ---    0 87036 123   0 ---- df
+20271        0x933318000        0x933418000 rw-    1 87036 123   0 ---- df
+20271        0x933418000        0x933419000 ---    0 87036 123   0 ---- df
+20271        0x933419000        0x933519000 rw-    1 87036 123   0 ---- df
+20271        0x933519000        0x93351a000 ---    0 87036 123   0 ---- df
+20271        0x93351a000        0x93361a000 rw-    1 87036 123   0 ---- df
+20271        0x93361a000        0x93361b000 ---    0 87036 123   0 ---- df
+20271        0x93361b000        0x93371b000 rw-    1 87036 123   0 ---- df
+20271        0x93371b000        0x93371c000 ---    0 87036 123   0 ---- df
+20271        0x93371c000        0x93381c000 rw-    1 87036 123   0 ---- df
+20271        0x93381c000        0x93381d000 ---    0 87036 123   0 ---- df
+20271        0x93381d000        0x93391d000 rw-    1 87036 123   0 ---- df
+20271        0x93391d000        0x93391e000 ---    0 87036 123   0 ---- df
+20271        0x93391e000        0x933a1e000 rw-    1 87036 123   0 ---- df
+20271        0x933a1e000        0x933a1f000 ---    0 87036 123   0 ---- df
+20271        0x933a1f000        0x933b1f000 rw-    1 87036 123   0 ---- df
+20271        0x933b1f000        0x933b20000 ---    0 87036 123   0 ---- df
+20271        0x933b20000        0x933c20000 rw-    1 87036 123   0 ---- df
+20271        0x933c20000        0x933c21000 ---    0 87036 123   0 ---- df
+20271        0x933c21000        0x933d21000 rw-    1 87036 123   0 ---- df
+20271        0x933d21000        0x933d22000 ---    0 87036 123   0 ---- df
+20271        0x933d22000        0x933e22000 rw-    1 87036 123   0 ---- df
+20271        0x933e22000        0x933e23000 ---    0 87036 123   0 ---- df
+20271        0x933e23000        0x933f23000 rw-    1 87036 123   0 ---- df
+20271        0x933f23000        0x933f24000 ---    0 87036 123   0 ---- df
+20271        0x933f24000        0x934024000 rw-    1 87036 123   0 ---- df
+20271        0x934024000        0x934025000 ---    0 87036 123   0 ---- df
+20271        0x934025000        0x934125000 rw-    1 87036 123   0 ---- df
+20271        0x934125000        0x934126000 ---    0 87036 123   0 ---- df
+20271        0x934126000        0x934226000 rw-    1 87036 123   0 ---- df
+20271        0x934226000        0x934227000 ---    0 87036 123   0 ---- df
+20271        0x934227000        0x934327000 rw-    1 87036 123   0 ---- df
+20271        0x934327000        0x934328000 ---    0 87036 123   0 ---- df
+20271        0x934328000        0x934428000 rw-    1 87036 123   0 ---- df
+20271        0x934428000        0x934429000 ---    0 87036 123   0 ---- df
+20271        0x934429000        0x934529000 rw-    1 87036 123   0 ---- df
+20271        0x934529000        0x93452a000 ---    0 87036 123   0 ---- df
+20271        0x93452a000        0x93462a000 rw-    1 87036 123   0 ---- df
+20271        0x93462a000        0x93462b000 ---    0 87036 123   0 ---- df
+20271        0x93462b000        0x93472b000 rw-    1 87036 123   0 ---- df
+20271        0x93472b000        0x93472c000 ---    0 87036 123   0 ---- df
+20271        0x93472c000        0x93482c000 rw-    1 87036 123   0 ---- df
+20271        0x93482c000        0x93482d000 ---    0 87036 123   0 ---- df
+20271        0x93482d000        0x93492d000 rw-    1 87036 123   0 ---- df
+20271        0x93492d000        0x93492e000 ---    0 87036 123   0 ---- df
+20271        0x93492e000        0x934a2e000 rw-    1 87036 123   0 ---- df
+20271        0x934a2e000        0x934a2f000 ---    0 87036 123   0 ---- df
+20271        0x934a2f000        0x934b2f000 rw-    1 87036 123   0 ---- df
+20271        0x934c00000        0x934e00000 rw-  512 87036 123   0 ---- df
+20271     0x7fffdf7fa000     0x7fffdf7fb000 ---    0    0   0   0 ---- --
+20271     0x7fffdf7fb000     0x7fffdf9db000 ---    0    0   0   0 ---- --
+20271     0x7fffdf9db000     0x7fffdf9fb000 rwx    1    1   1   0 ---D df
+20271     0x7fffdf9fb000     0x7fffdf9fc000 ---    0    0   0   0 ---- --
+20271     0x7fffdf9fc000     0x7fffdfbdc000 ---    0    0   0   0 ---- --
+20271     0x7fffdfbdc000     0x7fffdfbfc000 rwx    4    4   1   0 ---D df
+20271     0x7fffdfbfc000     0x7fffdfbfd000 ---    0    0   0   0 ---- --
+20271     0x7fffdfbfd000     0x7fffdfddd000 ---    0    0   0   0 ---- --
+20271     0x7fffdfddd000     0x7fffdfdfd000 rwx    1    1   1   0 ---D df
+20271     0x7fffdfdfd000     0x7fffdfdfe000 ---    0    0   0   0 ---- --
+20271     0x7fffdfdfe000     0x7fffdffde000 ---    0    0   0   0 ---- --
+20271     0x7fffdffde000     0x7fffdfffe000 rwx    2    2   1   0 ---D df
+20271     0x7fffdfffe000     0x7fffdffff000 ---    0    0   0   0 ---- --
+20271     0x7fffdffff000     0x7ffffffdf000 ---    0    0   0   0 ---- --
+20271     0x7ffffffdf000     0x7ffffffff000 rwx    7    7   1   0 ---D df
+20271     0x7ffffffff000     0x800000000000 r-x    1    1  29   0 ---- ph
